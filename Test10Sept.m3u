@@ -206,25 +206,53 @@ https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 #EXTINF:-1,-------------- Sports
 //
-#EXTINF:-1, tvg-id="BeinSport1.fr" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1 FHD"  group-title="Sports",BeIn Sports 1 FHD
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=ts
-#EXTINF:-1, tvg-id="BeinSpor2..fr" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" tvg-name="BeIn Sports 2 FHD"  group-title="Sports",BeIn Sports 2 FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=149773&extension=ts
-#EXTINF:-1, tvg-id="BeinSport3.fr" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3 FHD"  group-title="Sports",BeIn Sports 3 FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=250663&extension=ts
-#EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="Canal+ FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78977_dark_360w_270h.png" group-title="Sports",Canal+ FHD
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=148474&extension=ts
-#EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-name="Canal+ FHD"  group-title="Sports",Canal+ FHD
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=/play/live.php?mac=00:1A:79:CD:E0:3F&stream=32769&extension=ts
-#EXTINF:-1, tvg-id="CanalPlusFoot.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-foot-fr.png" tvg-name="Canal+ Foot FHD"  group-title="Sports",Canal+ Foot FHD
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=/play/live.php?mac=00:1A:79:CD:E0:3F&stream=256629&extension=ts
-#EXTINF:-1, tvg-id="CanalPlusSport360.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" tvg-name="Canal+ Sport 360 FHD"  group-title="Sports",Canal+ Sport 360 FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=256628&extension=tH
-#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport FHD"  group-title="Sports",Canal+ Sport FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=250679&extension=ts
-#EXTINF:-1, tvg-id="InfosportPlus.fr" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" tvg-name="Infosport+ FHD"  group-title="Sports",Infosport+ FHD
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=274704&extension=ts
-#EXTINF:-1, tvg-id="RMCSport1.fr" tvg-logo="https://static.epg.best/fr/RMCSport1.fr.png" tvg-name="RMC Sport 1 FHD"  group-title="Sports",RMC Sport 1 FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:84:0F:1B&stream=/play/live.php?mac=00:1A:79:BF:47:35&stream=32835&extension=ts
-#EXTINF:-1, tvg-id="RMCSport2.fr" tvg-logo="https://static.epg.best/fr/RMCSport2.fr.png" tvg-name="RMC Sport 2 FHD"  group-title="Sports",RMC Sport 2 FHD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=203436&extension=ts
+#EXTINF:0,202 - Crime District (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1314
+#EXTINF:0,202 - Crime District (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1314&flavour=hd
+#EXTINF:0,202 - Crime District (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1314&flavour=ld
+#EXTINF:0,205 - Histoire TV (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=235
+#EXTINF:0,205 - Histoire TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=235&flavour=hd
+#EXTINF:0,205 - Histoire TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=235&flavour=ld
+#EXTINF:0,206 - Toute l'histoire (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=250&flavour=hd
+#EXTINF:0,206 - Toute l'histoire (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=250&flavour=ld
+#EXTINF:0,206 - Toute l'histoire (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=250
+#EXTINF:0,207 - Science & Vie TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=251&flavour=ld
+#EXTINF:0,207 - Science & Vie TV (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=251
+#EXTINF:0,207 - Science & Vie TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=251&flavour=hd
+#EXTINF:0,208 - Animaux (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=248&flavour=hd
+#EXTINF:0,208 - Animaux (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=248&flavour=ld
+#EXTINF:0,208 - Animaux (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=248
+#EXTINF:0,209 - Trek (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=252
+#EXTINF:0,209 - Trek (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=252&flavour=hd
+#EXTINF:0,209 - Trek (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=252&flavour=ld
+#EXTINF:0,234 - Gourmand TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1459&flavour=hd
+#EXTINF:0,234 - Gourmand TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1459&flavour=ld
+#EXTINF:0,234 - Gourmand TV (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1459
+#EXTINF:0,240 - Maison & Travaux (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1541
+#EXTINF:0,240 - Maison & Travaux (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1541&flavour=hd
+#EXTINF:0,240 - Maison & Travaux (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1541&flavour=ld
+#EXTINF:0,348 - Arretsurimages.tv (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=738&flavour=sd
