@@ -206,53 +206,52 @@ https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 #EXTINF:-1,-------------- Sports
 //
-#EXTINF:0,202 - Crime District (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1314
-#EXTINF:0,202 - Crime District (HD)
+#EXTINF:-1 - Crime District (auto) rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1314
+#EXTINF:-1 - Crime District (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1314&flavour=hd
-#EXTINF:0,202 - Crime District (standard)
+#EXTINF:-1 - Crime District (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1314&flavour=ld
-#EXTINF:0,205 - Histoire TV (auto)
+#EXTINF:-1 - Histoire TV (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=235
-#EXTINF:0,205 - Histoire TV (HD)
+#EXTINF:-1 - Histoire TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=235&flavour=hd
-#EXTINF:0,205 - Histoire TV (bas débit)
+#EXTINF:-1 - Histoire TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=235&flavour=ld
-#EXTINF:0,206 - Toute l'histoire (HD)
+#EXTINF:-1 - Toute l'histoire (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=250&flavour=hd
-#EXTINF:0,206 - Toute l'histoire (bas débit)
+#EXTINF:-1 - Toute l'histoire (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=250&flavour=ld
-#EXTINF:0,206 - Toute l'histoire (auto)
+#EXTINF:-1 - Toute l'histoire (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=250
-#EXTINF:0,207 - Science & Vie TV (bas débit)
+#EXTINF:-1 - Science & Vie TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=251&flavour=ld
-#EXTINF:0,207 - Science & Vie TV (auto)
+#EXTINF:-1 - Science & Vie TV (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=251
-#EXTINF:0,207 - Science & Vie TV (HD)
+#EXTINF:-1 - Science & Vie TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=251&flavour=hd
-#EXTINF:0,208 - Animaux (HD)
+#EXTINF:-1 - Animaux (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=248&flavour=hd
-#EXTINF:0,208 - Animaux (bas débit)
+#EXTINF:-1 - Animaux (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=248&flavour=ld
-#EXTINF:0,208 - Animaux (auto)
+#EXTINF:-1 - Animaux (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=248
-#EXTINF:0,209 - Trek (auto)
+#EXTINF:-1 - Trek (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=252
-#EXTINF:0,209 - Trek (HD)
+#EXTINF:-1 - Trek (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=252&flavour=hd
-#EXTINF:0,209 - Trek (bas débit)
+#EXTINF:-1 - Trek (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=252&flavour=ld
-#EXTINF:0,234 - Gourmand TV (HD)
+#EXTINF:-1 - Gourmand TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1459&flavour=hd
-#EXTINF:0,234 - Gourmand TV (bas débit)
+#EXTINF:-1 - Gourmand TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1459&flavour=ld
-#EXTINF:0,234 - Gourmand TV (auto)
+#EXTINF:-1 - Gourmand TV (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1459
-#EXTINF:0,240 - Maison & Travaux (auto)
+#EXTINF:-1 - Maison & Travaux (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1541
-#EXTINF:0,240 - Maison & Travaux (HD)
+#EXTINF:-1 - Maison & Travaux (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1541&flavour=hd
-#EXTINF:0,240 - Maison & Travaux (bas débit)
+#EXTINF:-1 - Maison & Travaux (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1541&flavour=ld
-#EXTINF:0,348 - Arretsurimages.tv (standard)
+#EXTINF:-1 - Arretsurimages.tv (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=738&flavour=sd
