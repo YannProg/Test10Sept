@@ -1,0 +1,1935 @@
+#EXTM3U
+#EXTINF:-1,FR: RMC DÉCOUVERTE FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/791349
+#EXTINF:-1,FR: Animaux HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109682
+#EXTINF:-1,FR: ARTE HD
+http://x96.us:8880/4bc32ce3/2bf42de8/9239
+#EXTINF:-1,FR: ARTE HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110246
+#EXTINF:-1,FR: Chasse Peche FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/109509
+#EXTINF:-1,FR: Chasse ET Peche HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110574
+#EXTINF:-1,FR: Crime District HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109592
+#EXTINF:-1,FR: Discovery Channel HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109494
+#EXTINF:-1,FR: Discovery Family FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/109959
+#EXTINF:-1,FR: Discovery Science HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110277
+#EXTINF:-1,FR: Discovery Investigation HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110378
+#EXTINF:-1,FR: History HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110301
+#EXTINF:-1,FR: NAT GEO HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109749
+#EXTINF:-1,FR: NAT GEO WILD HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109750
+#EXTINF:-1,FR: National Geographic WILD HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109492
+#EXTINF:-1,FR: NAT Geographic HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110287
+#EXTINF:-1,FR: Planete + A&E FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/109575
+#EXTINF:-1,FR: Planet A&E HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109490
+#EXTINF:-1,FR: Planete _ci_HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110413
+#EXTINF:-1,FR: RMC Story HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109596
+#EXTINF:-1,FR: Science & VIE HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110296
+#EXTINF:-1,FR: Sciences ET VIE TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110576
+#EXTINF:-1,FR: RMC Story HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109484
+#EXTINF:-1,FR: Season HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109497
+#EXTINF:-1,FR: Seasons HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109762
+#EXTINF:-1,FR: TREK HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110304
+#EXTINF:-1,FR: TREK HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109581
+#EXTINF:-1,FR: TV5 Monde HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132715
+#EXTINF:-1,FR: Ushuaia HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109493
+#EXTINF:-1,FR: Ushuaia TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110307
+#EXTINF:-1,FR: ETV
+http://x96.us:8880/4bc32ce3/2bf42de8/881977
+#EXTINF:-1,FR: 13 EME RUE HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109780
+#EXTINF:-1,FR: 13eme RUE HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110097
+#EXTINF:-1,FR: AB1 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/109512
+#EXTINF:-1,FR: AB3 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/109514
+#EXTINF:-1,FR: AUTO MOTO HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110351
+#EXTINF:-1,FR: AUTO MOTO HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109906
+#EXTINF:-1,FR: BET HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110354
+#EXTINF:-1,FR: BIP TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/9232
+#EXTINF:-1,FR: Canal Decale HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109704
+#EXTINF:-1,FR: Cherie25 SD
+http://x96.us:8880/4bc32ce3/2bf42de8/109541
+#EXTINF:-1,FR: Cstar SD
+http://x96.us:8880/4bc32ce3/2bf42de8/109535
+#EXTINF:-1,FR: E! Entertainment HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110498
+#EXTINF:-1,FR: France 02 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/109664
+#EXTINF:-1,FR: France 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109455
+#EXTINF:-1,FR: France 3 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109456
+#EXTINF:-1,FR: France 4 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109457
+#EXTINF:-1,FR: France 5  HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109776
+#EXTINF:-1,FR: France3 SD
+http://x96.us:8880/4bc32ce3/2bf42de8/109532
+#EXTINF:-1,FR: Grand Lille TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109567
+#EXTINF:-1,FR: LA DEUX HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109757
+#EXTINF:-1,FR: MY Cuisine HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132933
+#EXTINF:-1,FR: Netflix Horror HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132671
+#EXTINF:-1,FR: Novelas HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109999
+#EXTINF:-1,FR: Nrj12 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109751
+#EXTINF:-1,FR: OLTV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109648
+#EXTINF:-1,FR: Paris Premiere HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110291
+#EXTINF:-1,FR: RFM TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110593
+#EXTINF:-1,FR: RTL 9  HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109781
+#EXTINF:-1,FR: RTS DEUX HD
+http://x96.us:8880/4bc32ce3/2bf42de8/9251
+#EXTINF:-1,FR: Sundance TV FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/109516
+#EXTINF:-1,FR: SYFY Full-HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110415
+#EXTINF:-1,FR: SYFY HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110297
+#EXTINF:-1,FR: TEVA HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110356
+#EXTINF:-1,FR: TF1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109473
+#EXTINF:-1,FR: TFX HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109599
+#EXTINF:-1,FR: TFX HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109474
+#EXTINF:-1,FR: TV Breizh HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110306
+#EXTINF:-1,FR: TV8 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110595
+#EXTINF:-1,FR: Viceland FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/110052
+#EXTINF:-1,FR: Voyage HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109501
+#EXTINF:-1,FR: W9 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109782
+#EXTINF:-1,⭐.⭐ ⭐ KIDS ⭐ ⭐.⭐
+http://x96.us:8880/4bc32ce3/2bf42de8/652195
+#EXTINF:-1,FR: BABY TV FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/109513
+#EXTINF:-1,FR: BABY TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110109
+#EXTINF:-1,FR: Boing HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109519
+#EXTINF:-1,FR: Boomerang HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110310
+#EXTINF:-1,FR: Canal J HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110523
+#EXTINF:-1,FR: Canal J HD
+http://x96.us:8880/4bc32ce3/2bf42de8/9217
+#EXTINF:-1,FR: Cartoon Network HD
+http://x96.us:8880/4bc32ce3/2bf42de8/9213
+#EXTINF:-1,FR: Disney Channel HD
+http://x96.us:8880/4bc32ce3/2bf42de8/484521
+#EXTINF:-1,FR: Disney JR FR HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109672
+#EXTINF:-1,FR: Disney XD HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110516
+#EXTINF:-1,FR: Disney+ HD
+http://x96.us:8880/4bc32ce3/2bf42de8/579510
+#EXTINF:-1,FR: GAME ONE HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110528
+#EXTINF:-1,FR: GONG FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/109978
+#EXTINF:-1,FR: Gulli HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109777
+#EXTINF:-1,FR: J-one FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/109576
+#EXTINF:-1,FR: Manga HD
+http://x96.us:8880/4bc32ce3/2bf42de8/9223
+#EXTINF:-1,FR: Mangas HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109860
+#EXTINF:-1,FR: Nickelodeon 4teen FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/109577
+#EXTINF:-1,FR: Nickelodeon HD
+http://x96.us:8880/4bc32ce3/2bf42de8/681085
+#EXTINF:-1,FR: Nickelodeon JR HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109998
+#EXTINF:-1,FR: Nickelodeon Junior HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110289
+#EXTINF:-1,FR: Piwi+ HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109872
+#EXTINF:-1,FR: Teletoon + FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/109681
+#EXTINF:-1,FR: TIJI HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110300
+#EXTINF:-1,FR: TIJI TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/9215
+#EXTINF:-1,FR: Piwi+
+http://x96.us:8880/4bc32ce3/2bf42de8/9211
+#EXTINF:-1,FR: CANAL+ LIGUE 1
+http://x96.us:8880/4bc32ce3/2bf42de8/1036889
+#EXTINF:-1,FR: Canal+ Sport 360 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/613174
+#EXTINF:-1,FR: Canal+ Formula1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/612847
+#EXTINF:-1,FR: Canal+ Motogp (ligue1)  HD
+http://x96.us:8880/4bc32ce3/2bf42de8/612849
+#EXTINF:-1,FR: Canal+ Premier League HD
+http://x96.us:8880/4bc32ce3/2bf42de8/612848
+#EXTINF:-1,FR: Canal+ TOP 14 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/612850
+#EXTINF:-1,FR: AB Moteurs SD
+http://x96.us:8880/4bc32ce3/2bf42de8/109549
+#EXTINF:-1,FR: Automoto LA Chaine FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/109515
+#EXTINF:-1,FR: BEIN Sports 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110247
+#EXTINF:-1,FR: BEIN Sport 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109907
+#EXTINF:-1,FR: BEIN Sports 1 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/109630
+#EXTINF:-1,FR: BEIN Sport 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109908
+#EXTINF:-1,FR: BEIN Sport 3 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109909
+#EXTINF:-1,FR: BEIN Sports 3 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/109634
+#EXTINF:-1,FR: BEIN Sport MAX 4 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109529
+#EXTINF:-1,FR: BEIN Sport MAX 5 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109528
+#EXTINF:-1,FR: BEIN MAX 6 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109450
+#EXTINF:-1,FR: Beinsports 6 MAX HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109527
+#EXTINF:-1,FR: BEIN Sports MAX 7 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109818
+#EXTINF:-1,FR: Beinsports 8 MAX HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109525
+#EXTINF:-1,FR: BEIN MAX 8 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109451
+#EXTINF:-1,FR: BEIN Sport MAX 10 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109625
+#EXTINF:-1,FR: BFM Sport HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109662
+#EXTINF:-1,FR: Canal Sport HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109488
+#EXTINF:-1,FR: Eurosport 1 UHD
+http://x96.us:8880/4bc32ce3/2bf42de8/110281
+#EXTINF:-1,FR: Eurosport 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109486
+#EXTINF:-1,FR: Eurosport 1HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109561
+#EXTINF:-1,FR: Eurosport 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109560
+#EXTINF:-1,FR: Eurosport2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109644
+#EXTINF:-1,FR: Equidia LIVE HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109641
+#EXTINF:-1,FR: Foot+ 24 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110350
+#EXTINF:-1,FR: Foot24 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109487
+#EXTINF:-1,FR: GOLF Channel HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132905
+#EXTINF:-1,FR: GOLF Channel HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109977
+#EXTINF:-1,FR: Infosport HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109585
+#EXTINF:-1,FR: Infosport+ HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109856
+#EXTINF:-1,FR: Kombat HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132723
+#EXTINF:-1,FR: L Equipe 21 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109983
+#EXTINF:-1,FR: RMC 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109649
+#EXTINF:-1,FR: RMC Sport 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109459
+#EXTINF:-1,FR: RMC Sport 4 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109461
+#EXTINF:-1,FR: RMC Sport 5 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109615
+#EXTINF:-1,FR: RMC Sport 5 HD LIVE
+http://x96.us:8880/4bc32ce3/2bf42de8/110021
+#EXTINF:-1,FR: RMC Sport LIVE 6 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110447
+#EXTINF:-1,FR: RMC Sport 6 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109607
+#EXTINF:-1,FR: RMC Sport 6 HD LIVE
+http://x96.us:8880/4bc32ce3/2bf42de8/110022
+#EXTINF:-1,FR: RMC Sport 7 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109608
+#EXTINF:-1,FR: RMC Sport LIVE 9 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110450
+#EXTINF:-1,FR: RMC Sport 11 HD LIVE
+http://x96.us:8880/4bc32ce3/2bf42de8/110024
+#EXTINF:-1,FR: RMC Sport LIVE 12 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110205
+#EXTINF:-1,FR: RMC Sport 13 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/110025
+#EXTINF:-1,FR: RMC Access Sport 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110013
+#EXTINF:-1,FR: RMC Access Sport 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132725
+#EXTINF:-1,FR: RMC Access Sport 3 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110014
+#EXTINF:-1,FR: RMC Sport NEWS HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110027
+#EXTINF:-1,FR: RMC Sport 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109458
+#EXTINF:-1,FR: A LA Carte 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/9235
+#EXTINF:-1,FR: A LA Carte 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/9236
+#EXTINF:-1,FR: A LA Carte 3 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/9237
+#EXTINF:-1,FR: A LA Carte 5 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/9238
+#EXTINF:-1,FR: A LA Carte 6 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109894
+#EXTINF:-1,FR: A LA Carte 7 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109696
+#EXTINF:-1,FR: A LA Carte 8 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109697
+#EXTINF:-1,FR: A LA Carte 9 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109698
+#EXTINF:-1,FR: A LA Carte 10 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109695
+#EXTINF:-1,FR: A LA Carte 11 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110059
+#EXTINF:-1,FR: A LA Carte 12 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110060
+#EXTINF:-1,FR: A LA Carte 13 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110061
+#EXTINF:-1,FR: A LA Carte 14 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110062
+#EXTINF:-1,FR: A LA Carte 15 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110063
+#EXTINF:-1,FR: A LA Carte 16 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110064
+#EXTINF:-1,FR: A LA Carte 18 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110066
+#EXTINF:-1,FR: A LA Carte 20 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110068
+#EXTINF:-1,FR: Altice Studio HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110480
+#EXTINF:-1,FR: Action SD
+http://x96.us:8880/4bc32ce3/2bf42de8/109550
+#EXTINF:-1,FR: Canal Cinema HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109703
+#EXTINF:-1,FR: Canal Series HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109706
+#EXTINF:-1,FR: Canal + FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/109708
+#EXTINF:-1,FR: Canal SD
+http://x96.us:8880/4bc32ce3/2bf42de8/109557
+#EXTINF:-1,FR: Canal+ Cinema HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109828
+#EXTINF:-1,FR: Canal+ Decale HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109829
+#EXTINF:-1,FR: CINE Classic HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109716
+#EXTINF:-1,FR: CINE CLUB SD
+http://x96.us:8880/4bc32ce3/2bf42de8/109537
+#EXTINF:-1,FR: CINE Emotion SD
+http://x96.us:8880/4bc32ce3/2bf42de8/109536
+#EXTINF:-1,FR: CINE Famiz HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109720
+#EXTINF:-1,FR: CINE Frisson HD
+http://x96.us:8880/4bc32ce3/2bf42de8/9248
+#EXTINF:-1,FR: CINE Premier HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109725
+#EXTINF:-1,FR: Comédie HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109475
+#EXTINF:-1,FR: Canal PLUS HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132628
+#EXTINF:-1,FR: Canal+ Serie HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132627
+#EXTINF:-1,FR: Canal+ Family  HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109785
+#EXTINF:-1,FR: CINE Emotion HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109464
+#EXTINF:-1,FR: Cine+ CLUB HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110270
+#EXTINF:-1,FR: Cine+ Emotion HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109786
+#EXTINF:-1,FR: Cine+ Famiz  HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109788
+#EXTINF:-1,FR: Comedie+ HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110275
+#EXTINF:-1,FR: Canal PLAY 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109709
+#EXTINF:-1,FR: Canal PLAY 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109710
+#EXTINF:-1,FR: Canal PLAY 3 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109711
+#EXTINF:-1,FR: Canal PLAY 4 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109712
+#EXTINF:-1,FR: Canal PLAY 5 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109713
+#EXTINF:-1,FR: Canal PLAY 6 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109931
+#EXTINF:-1,FR: Canal PLAY 7 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109932
+#EXTINF:-1,FR: Canal PLAY 8 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109933
+#EXTINF:-1,FR: Canal PLAY 10 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109935
+#EXTINF:-1,FR: Canal PLAY 11 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132718
+#EXTINF:-1,FR: Canal PLAY 16 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109936
+#EXTINF:-1,FR: Canal PLAY 18 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109938
+#EXTINF:-1,FR: Canalplay 1 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/110362
+#EXTINF:-1,FR: Canalplay 2 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/110363
+#EXTINF:-1,FR: Canalplay 3 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/110364
+#EXTINF:-1,FR: Canalplay 4 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/110365
+#EXTINF:-1,FR: Canalplay 5 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/110366
+#EXTINF:-1,FR: Canalplay 6 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/110367
+#EXTINF:-1,FR: Canalplay 7 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/110368
+#EXTINF:-1,FR: Canalplay 9 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/110370
+#EXTINF:-1,FR: Canalplay 10 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/110371
+#EXTINF:-1,FR: Canal PLAY 11 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/110372
+#EXTINF:-1,FR: Canal PLAY 12 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/110069
+#EXTINF:-1,FR: Canal PLAY 13 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/110070
+#EXTINF:-1,FR: Canalplay 14 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/110375
+#EXTINF:-1,FR: Canalplay 15 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/110071
+#EXTINF:-1,FR: Disney Cinema HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110311
+#EXTINF:-1,FR: OCS CITY HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109468
+#EXTINF:-1,FR: OCS Geant HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109469
+#EXTINF:-1,FR: OCS MAX HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109470
+#EXTINF:-1,FR: Orange Cinema 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109736
+#EXTINF:-1,FR: OCS CHOC  HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109798
+#EXTINF:-1,FR: OCS CITY  HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109799
+#EXTINF:-1,FR: OCS MAX  HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109796
+#EXTINF:-1,FR: Orange Cinema 4 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132980
+#EXTINF:-1,FR: Paramount Channel HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110355
+#EXTINF:-1,FR: Polar FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/110295
+#EXTINF:-1,FR: Paramount Decale HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110188
+#EXTINF:-1,FR: Serie CLUB HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109477
+#EXTINF:-1,FR: Serie CLUB HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110486
+#EXTINF:-1,FR: TCM Cinema HD
+http://x96.us:8880/4bc32ce3/2bf42de8/9253
+#EXTINF:-1,FR: TMC HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109471
+#EXTINF:-1,FR: TMC+ 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110230
+#EXTINF:-1,FR: TCM Cinema HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110298
+#EXTINF:-1,FR: TF1 Series Films HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110347
+#EXTINF:-1,FR: Warner TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110481
+#EXTINF:-1,CInemania HD
+http://x96.us:8880/4bc32ce3/2bf42de8/106525
+#EXTINF:-1,FR: CINEMAX 1
+http://x96.us:8880/4bc32ce3/2bf42de8/106518
+#EXTINF:-1,EPIC Drama HD
+http://x96.us:8880/4bc32ce3/2bf42de8/106541
+#EXTINF:-1,FOX Movies HD
+http://x96.us:8880/4bc32ce3/2bf42de8/106538
+#EXTINF:-1,M1 GOLD HD
+http://x96.us:8880/4bc32ce3/2bf42de8/106527
+#EXTINF:-1,MAxcro Select 4 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/106545
+#EXTINF:-1,MAxcro Select 7 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/106548
+#EXTINF:-1,MAxcro Select 8 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/106549
+#EXTINF:-1,PIckbox TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/106553
+#EXTINF:-1, CANAL+ LIVE 1
+http://x96.us:8880/4bc32ce3/2bf42de8/871534
+#EXTINF:-1, CANAL+ LIVE 10
+http://x96.us:8880/4bc32ce3/2bf42de8/871543
+#EXTINF:-1, CANAL+ LIVE 11
+http://x96.us:8880/4bc32ce3/2bf42de8/871544
+#EXTINF:-1, CANAL+ LIVE 12
+http://x96.us:8880/4bc32ce3/2bf42de8/871545
+#EXTINF:-1, CANAL+ LIVE 13
+http://x96.us:8880/4bc32ce3/2bf42de8/871546
+#EXTINF:-1, CANAL+ LIVE 14
+http://x96.us:8880/4bc32ce3/2bf42de8/871547
+#EXTINF:-1, CANAL+ LIVE 15
+http://x96.us:8880/4bc32ce3/2bf42de8/871548
+#EXTINF:-1, CANAL+ LIVE 16
+http://x96.us:8880/4bc32ce3/2bf42de8/871549
+#EXTINF:-1, CANAL+ LIVE 17
+http://x96.us:8880/4bc32ce3/2bf42de8/871550
+#EXTINF:-1, CANAL+ LIVE 18
+http://x96.us:8880/4bc32ce3/2bf42de8/871551
+#EXTINF:-1, CANAL+ LIVE 19
+http://x96.us:8880/4bc32ce3/2bf42de8/871552
+#EXTINF:-1, CANAL+ LIVE 2
+http://x96.us:8880/4bc32ce3/2bf42de8/871535
+#EXTINF:-1, CANAL+ LIVE 3
+http://x96.us:8880/4bc32ce3/2bf42de8/871536
+#EXTINF:-1, CANAL+ LIVE 4
+http://x96.us:8880/4bc32ce3/2bf42de8/871537
+#EXTINF:-1, CANAL+ LIVE 5
+http://x96.us:8880/4bc32ce3/2bf42de8/871538
+#EXTINF:-1, CANAL+ LIVE 6
+http://x96.us:8880/4bc32ce3/2bf42de8/871539
+#EXTINF:-1, CANAL+ LIVE 7
+http://x96.us:8880/4bc32ce3/2bf42de8/871540
+#EXTINF:-1, CANAL+ LIVE 8
+http://x96.us:8880/4bc32ce3/2bf42de8/871541
+#EXTINF:-1, CANAL+ LIVE 9
+http://x96.us:8880/4bc32ce3/2bf42de8/871542
+#EXTINF:-1, FR: DAZN 1
+http://x96.us:8880/4bc32ce3/2bf42de8/816042
+#EXTINF:-1, FR: DAZN Event 1
+http://x96.us:8880/4bc32ce3/2bf42de8/816012
+#EXTINF:-1, FR: DAZN Event 10
+http://x96.us:8880/4bc32ce3/2bf42de8/816021
+#EXTINF:-1, FR: DAZN Event 11
+http://x96.us:8880/4bc32ce3/2bf42de8/816022
+#EXTINF:-1, FR: DAZN Event 12
+http://x96.us:8880/4bc32ce3/2bf42de8/816023
+#EXTINF:-1, FR: DAZN Event 13
+http://x96.us:8880/4bc32ce3/2bf42de8/816024
+#EXTINF:-1, FR: DAZN Event 14
+http://x96.us:8880/4bc32ce3/2bf42de8/816025
+#EXTINF:-1, FR: DAZN Event 15
+http://x96.us:8880/4bc32ce3/2bf42de8/816026
+#EXTINF:-1, FR: DAZN Event 16
+http://x96.us:8880/4bc32ce3/2bf42de8/816027
+#EXTINF:-1, FR: DAZN Event 17
+http://x96.us:8880/4bc32ce3/2bf42de8/816028
+#EXTINF:-1, FR: DAZN Event 18
+http://x96.us:8880/4bc32ce3/2bf42de8/816029
+#EXTINF:-1, FR: DAZN Event 19
+http://x96.us:8880/4bc32ce3/2bf42de8/816030
+#EXTINF:-1, FR: DAZN Event 2
+http://x96.us:8880/4bc32ce3/2bf42de8/816013
+#EXTINF:-1, FR: DAZN Event 20
+http://x96.us:8880/4bc32ce3/2bf42de8/816031
+#EXTINF:-1, FR: DAZN Event 21
+http://x96.us:8880/4bc32ce3/2bf42de8/816032
+#EXTINF:-1, FR: DAZN Event 22
+http://x96.us:8880/4bc32ce3/2bf42de8/816033
+#EXTINF:-1, FR: DAZN Event 23
+http://x96.us:8880/4bc32ce3/2bf42de8/816034
+#EXTINF:-1, FR: DAZN Event 24
+http://x96.us:8880/4bc32ce3/2bf42de8/816035
+#EXTINF:-1, FR: DAZN Event 25
+http://x96.us:8880/4bc32ce3/2bf42de8/816036
+#EXTINF:-1, FR: DAZN Event 26
+http://x96.us:8880/4bc32ce3/2bf42de8/816037
+#EXTINF:-1, FR: DAZN Event 27
+http://x96.us:8880/4bc32ce3/2bf42de8/816038
+#EXTINF:-1, FR: DAZN Event 28
+http://x96.us:8880/4bc32ce3/2bf42de8/816039
+#EXTINF:-1, FR: DAZN Event 29
+http://x96.us:8880/4bc32ce3/2bf42de8/816040
+#EXTINF:-1, FR: DAZN Event 3
+http://x96.us:8880/4bc32ce3/2bf42de8/816014
+#EXTINF:-1, FR: DAZN Event 30
+http://x96.us:8880/4bc32ce3/2bf42de8/816041
+#EXTINF:-1, FR: DAZN Event 4
+http://x96.us:8880/4bc32ce3/2bf42de8/816015
+#EXTINF:-1, FR: DAZN Event 5
+http://x96.us:8880/4bc32ce3/2bf42de8/816016
+#EXTINF:-1, FR: DAZN Event 6
+http://x96.us:8880/4bc32ce3/2bf42de8/816017
+#EXTINF:-1, FR: DAZN Event 7
+http://x96.us:8880/4bc32ce3/2bf42de8/816018
+#EXTINF:-1, FR: DAZN Event 8
+http://x96.us:8880/4bc32ce3/2bf42de8/816019
+#EXTINF:-1, FR: DAZN Event 9
+http://x96.us:8880/4bc32ce3/2bf42de8/816020
+#EXTINF:-1,FR: Brava FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/109770
+#EXTINF:-1,FR: M6 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109503
+#EXTINF:-1,FR: MCM HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109656
+#EXTINF:-1,FR: MCM HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110500
+#EXTINF:-1,FR: Mezzo LIVE HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110175
+#EXTINF:-1,FR: RFM TV Music HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110012
+#EXTINF:-1,FR: Trace Kitoko HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110584
+#EXTINF:-1,FR: Trace TOCA HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109504
+#EXTINF:-1,FR: VH1 Classic HD
+http://x96.us:8880/4bc32ce3/2bf42de8/9228
+#EXTINF:-1,FR: BFM Business HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109661
+#EXTINF:-1,FR: BFM TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110120
+#EXTINF:-1,FR: C NEWS HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109922
+#EXTINF:-1,FR: Cnews FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/110429
+#EXTINF:-1,FR: Cnews HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109663
+#EXTINF:-1,FR: Euronews HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110599
+#EXTINF:-1,FR: France 24 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132699
+#EXTINF:-1,FR: France INFO HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109850
+#EXTINF:-1,FR: France O HD
+http://x96.us:8880/4bc32ce3/2bf42de8/9246
+#EXTINF:-1,FR: I24 NEWS HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109593
+#EXTINF:-1,FR: KTO HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132702
+#EXTINF:-1,FR: KTO TV France HD
+http://x96.us:8880/4bc32ce3/2bf42de8/58543
+#EXTINF:-1,FR: LCI HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109507
+#EXTINF:-1,FR: LCI HD
+http://x96.us:8880/4bc32ce3/2bf42de8/110332
+#EXTINF:-1,FR: LCP HD
+http://x96.us:8880/4bc32ce3/2bf42de8/109988
+#EXTINF:-1,FR: RTS UN HD
+http://x96.us:8880/4bc32ce3/2bf42de8/9252
+#EXTINF:-1,⭐ Free Palestine 9 ⭐
+http://x96.us:8880/4bc32ce3/2bf42de8/790987
+#EXTINF:-1,Bemad FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/547655
+#EXTINF:-1,Blaze FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135938
+#EXTINF:-1,Canal Cocina HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136068
+#EXTINF:-1,Canal Odisea HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136077
+#EXTINF:-1,Crime + Investigation FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135933
+#EXTINF:-1,Decasa FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135936
+#EXTINF:-1,Decasa HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136069
+#EXTINF:-1,Discovery (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135935
+#EXTINF:-1,Historia FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135934
+#EXTINF:-1,M+ Documentales (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823165
+#EXTINF:-1,Movistar Cinedoc&roll FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135921
+#EXTINF:-1,NAT GEO WILD HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136124
+#EXTINF:-1,National Geographic HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136075
+#EXTINF:-1,Odisea FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135944
+#EXTINF:-1,BABY TV HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136107
+#EXTINF:-1,Boing HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136025
+#EXTINF:-1,Boing HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/522169
+#EXTINF:-1,CLAN TVE HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136026
+#EXTINF:-1,Disney Channel HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136027
+#EXTINF:-1,Disney JR HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136167
+#EXTINF:-1,Disney Junior HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136028
+#EXTINF:-1,Disney XD HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136166
+#EXTINF:-1,M. Disney HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136185
+#EXTINF:-1,M. Dreamworks HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/398635
+#EXTINF:-1,NICK JR HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136029
+#EXTINF:-1,Nickelodeon HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136030
+#EXTINF:-1,U-BEAT FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824294
+#EXTINF:-1,AMC Break FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/601338
+#EXTINF:-1,AMC Crime (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823196
+#EXTINF:-1,BUEN VIAJE (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823170
+#EXTINF:-1,Canal Iberalia HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136074
+#EXTINF:-1,CAZA Y Pesca FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135931
+#EXTINF:-1,Cazavision (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823184
+#EXTINF:-1,Cosmo FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136036
+#EXTINF:-1,Iberalia TV HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136153
+#EXTINF:-1,ORIGINALES (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823181
+#EXTINF:-1,SURF (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823200
+#EXTINF:-1,ES: onetoro
+http://x96.us:8880/4bc32ce3/2bf42de8/994317
+#EXTINF:-1,DAZN Formula 1 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/191515
+#EXTINF:-1,DAZN LaLiga HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/606870
+#EXTINF:-1,Eurosport 1 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136045
+#EXTINF:-1,Eurosport 2 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136046
+#EXTINF:-1,DAZN 1 FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/606850
+#EXTINF:-1,DAZN 1 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135891
+#EXTINF:-1,DAZN 2 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135890
+#EXTINF:-1,DAZN 3 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/484344
+#EXTINF:-1,DAZN 4 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/484345
+#EXTINF:-1,M. DAZN LaLiga  1 SD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/606865
+#EXTINF:-1,M. DAZN LaLiga  1 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/606866
+#EXTINF:-1,M. DAZN LaLiga  1 FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/606867
+#EXTINF:-1,M. DAZN LaLiga 2 SD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/606868
+#EXTINF:-1,M. DAZN LaLiga 2 FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/606869
+#EXTINF:-1,M. DAZN F1 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/522112
+#EXTINF:-1,BEIN Sports LaLiga HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/522159
+#EXTINF:-1,M. LaLiga HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135907
+#EXTINF:-1,M. LaLiga FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136095
+#EXTINF:-1,M. LaLiga 1 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135953
+#EXTINF:-1,M. LaLiga 1 FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/522147
+#EXTINF:-1,M. LaLiga 2 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136199
+#EXTINF:-1,M. LaLiga 2 FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/522116
+#EXTINF:-1,M. LaLiga 3 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/583931
+#EXTINF:-1,M. LaLiga 4 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823271
+#EXTINF:-1,M. LaLiga 5 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823276
+#EXTINF:-1,LaLiga  TV BAR 1 FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135955
+#EXTINF:-1,LaLiga TV BAR HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136097
+#EXTINF:-1,LaLiga TV BAR ( AVATEL ) (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824256
+#EXTINF:-1,LaLiga TV BAR 2 ( AVATEL ) (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824257
+#EXTINF:-1,LaLiga TV BAR 3 ( AVATEL ) (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824258
+#EXTINF:-1,M. Formula F1 SD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136127
+#EXTINF:-1,M. Formula 1 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135951
+#EXTINF:-1,DAZN Movistar 1 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/606859
+#EXTINF:-1,DAZN Movistar 1 FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/606851
+#EXTINF:-1,DAZN Movistar 2 SD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/606861
+#EXTINF:-1,DAZN Movistar 2 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/606852
+#EXTINF:-1,DAZN Movistar 2 FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/606860
+#EXTINF:-1,DAZN Movistar 3 SD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/606853
+#EXTINF:-1,DAZN Movistar 3 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/606862
+#EXTINF:-1,DAZN Movistar 4 SD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/606863
+#EXTINF:-1,DAZN Movistar 4 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/606854
+#EXTINF:-1,DAZN Movistar F1 SD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/606857
+#EXTINF:-1,DAZN Movistar F1 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/606856
+#EXTINF:-1,DAZN Movistar F1 FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/606858
+#EXTINF:-1,Liga DE Campeones 1 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/268464
+#EXTINF:-1,Liga DE Campeones 2 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/268465
+#EXTINF:-1,Liga DE Campeones 3 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/268466
+#EXTINF:-1,Liga DE Campeones 4 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/268467
+#EXTINF:-1,Liga DE Campeones 5 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824065
+#EXTINF:-1,Liga DE Campeones 6 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/522168
+#EXTINF:-1,Liga DE Campeones 7 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824068
+#EXTINF:-1,Liga DE Campeones 8 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/268471
+#EXTINF:-1,M. Deportes 1 FHD (h.265) (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/688244
+#EXTINF:-1,M. Deportes 1 FHD (solo Eventos) (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/688246
+#EXTINF:-1,M. Deportes 1 HD (solo Eventos) (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/688247
+#EXTINF:-1,M. Deportes 2 (solo Eventos) HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/688250
+#EXTINF:-1,M. Deportes 2 FHD (fibra) (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/688249
+#EXTINF:-1,M. Deportes 3 (solo Eventos) HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/688252
+#EXTINF:-1,M. Deportes 3 FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/688251
+#EXTINF:-1,M. Deportes 4 (solo Eventos) HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/688254
+#EXTINF:-1,M. Deportes 4 FHD (fibra) (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/688253
+#EXTINF:-1,M. Deportes 5 (solo Eventos) HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/688256
+#EXTINF:-1,M. Deportes 5 FHD (fibra) (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/688255
+#EXTINF:-1,M. Deportes HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136138
+#EXTINF:-1,GOL PLAY (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823243
+#EXTINF:-1,GOL TV FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135895
+#EXTINF:-1,GOL TV HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136049
+#EXTINF:-1,M+ Ellas (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823155
+#EXTINF:-1,M. Liga Campeones 1 FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135903
+#EXTINF:-1,M. Liga Campeones 2 FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135904
+#EXTINF:-1,M. LaLiga Smartbank TV 2 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/693053
+#EXTINF:-1,M. Liga DE Campeones HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135908
+#EXTINF:-1,M. Deporte 1 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135952
+#EXTINF:-1,M. Futbol HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136051
+#EXTINF:-1,M. GOLF HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/522157
+#EXTINF:-1,M. Liga Campeones HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136099
+#EXTINF:-1,M. Liga Campeones SD  Multiaudio (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824260
+#EXTINF:-1,M. MOTO GP FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/484530
+#EXTINF:-1,M. MOTO GP HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/522158
+#EXTINF:-1,M. Toros FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135928
+#EXTINF:-1,Liga Hypermotion 1 FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823256
+#EXTINF:-1,Liga Hypermotion 2 FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823259
+#EXTINF:-1,Liga Hypermotion 3 FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/1017813
+#EXTINF:-1,Barca TV FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135913
+#EXTINF:-1,Betis TV SD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824270
+#EXTINF:-1,ESPN HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/522170
+#EXTINF:-1,Fight Box HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824281
+#EXTINF:-1,Multideporte HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/398636
+#EXTINF:-1,Mundotoro HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/705711
+#EXTINF:-1,Nfl Network HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824272
+#EXTINF:-1,Nhl Network HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824271
+#EXTINF:-1,REAL Madrid TV HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136047
+#EXTINF:-1,Red bull TV HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824274
+#EXTINF:-1,SEVILLA (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823239
+#EXTINF:-1,Sky Sport LaLiga (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824254
+#EXTINF:-1,Teledeporte HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136189
+#EXTINF:-1,Toros TV FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135948
+#EXTINF:-1,Vamos SD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135929
+#EXTINF:-1,Vamos HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136130
+#EXTINF:-1,Vamos FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136023
+#EXTINF:-1,#0 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136102
+#EXTINF:-1,AMC FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135914
+#EXTINF:-1,AXN MOVIES (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823162
+#EXTINF:-1,DARK FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/522171
+#EXTINF:-1,FOX FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135910
+#EXTINF:-1,FOX HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136037
+#EXTINF:-1,FOX LIFE FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135911
+#EXTINF:-1,Hollywood FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135918
+#EXTINF:-1,M+ Cine (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823131
+#EXTINF:-1,M. Accion HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136054
+#EXTINF:-1,M. Cine Ñ HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135902
+#EXTINF:-1,M. Drama HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136141
+#EXTINF:-1,M. Estrenos 2 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/545635
+#EXTINF:-1,M.+ Acción HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135954
+#EXTINF:-1,M.cine Espanol HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136055
+#EXTINF:-1,M.estrenos HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136058
+#EXTINF:-1,Movistar Accion FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135920
+#EXTINF:-1,Movistar Alquiler 1 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/522165
+#EXTINF:-1,Movistar Alquiler 2 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/522160
+#EXTINF:-1,Movistar Alquiler 3 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/522161
+#EXTINF:-1,Movistar Alquiler 4 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/522162
+#EXTINF:-1,Movistar Alquiler 5 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/522163
+#EXTINF:-1,Movistar Alquiler 9 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/522164
+#EXTINF:-1,Movistar Clasicos HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/579475
+#EXTINF:-1,Movistar Comedia FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135926
+#EXTINF:-1,Movistar Dcine HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135927
+#EXTINF:-1,Movistar Drama FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135925
+#EXTINF:-1,Movistar Estrenos FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135924
+#EXTINF:-1,Movistar FEST HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/579474
+#EXTINF:-1,Movistar Plus+ (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823135
+#EXTINF:-1,Movistar Plus+ 2 FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824285
+#EXTINF:-1,Paramount Channel FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135919
+#EXTINF:-1,Sky Showtime 1 FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824290
+#EXTINF:-1,Somos HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136197
+#EXTINF:-1,Sundance FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135940
+#EXTINF:-1,Taquilla 1 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136085
+#EXTINF:-1,Taquilla 10 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136094
+#EXTINF:-1,Taquilla 3 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136087
+#EXTINF:-1,Taquilla 4 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136088
+#EXTINF:-1,Taquilla 5 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136089
+#EXTINF:-1,Taquilla 6 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136090
+#EXTINF:-1,Taquilla 7 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136091
+#EXTINF:-1,TCM HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136186
+#EXTINF:-1,TNT FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135939
+#EXTINF:-1,Viajar FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135932
+#EXTINF:-1,XTRM (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823151
+#EXTINF:-1,A3 Series FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135893
+#EXTINF:-1,A3series HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135917
+#EXTINF:-1,Antena 3 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136008
+#EXTINF:-1,BE MAD HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135894
+#EXTINF:-1,BOM CINE (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823228
+#EXTINF:-1,Cuatro HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136009
+#EXTINF:-1,Divinity FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135942
+#EXTINF:-1,Dkiss HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135900
+#EXTINF:-1,DMAX HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135901
+#EXTINF:-1,El Toro TV (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823231
+#EXTINF:-1,Energy HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136081
+#EXTINF:-1,Euronews EN Espanol HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/582154
+#EXTINF:-1,FDF TV HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136013
+#EXTINF:-1,FOX NEWS HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136161
+#EXTINF:-1,LA 1 FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135949
+#EXTINF:-1,LA 2 FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135950
+#EXTINF:-1,LA Sexta HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136011
+#EXTINF:-1,MAS 24 Horas HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135983
+#EXTINF:-1,MEGA FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135916
+#EXTINF:-1,NEOX HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136016
+#EXTINF:-1,NOVA FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135943
+#EXTINF:-1,Telecinco FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135909
+#EXTINF:-1,TEN FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135945
+#EXTINF:-1,All Flamenco HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824307
+#EXTINF:-1,Classica HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136152
+#EXTINF:-1,Mezzo LIVE FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/522175
+#EXTINF:-1,MTV ESP FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135947
+#EXTINF:-1,MTV ESPA HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136126
+#EXTINF:-1,MTV HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136066
+#EXTINF:-1,7RM FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824221
+#EXTINF:-1,7RM HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/522176
+#EXTINF:-1,A Punt HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824242
+#EXTINF:-1,Alcarria TV HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135957
+#EXTINF:-1,Aragon TV HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/547652
+#EXTINF:-1,Canal Parlamento (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823126
+#EXTINF:-1,Canal Parlamento SD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824246
+#EXTINF:-1,Canal Sur (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/822698
+#EXTINF:-1,Canal SUR Andalucia FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135946
+#EXTINF:-1,Canal SUR Andalucia TV HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136012
+#EXTINF:-1,Caracol FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135898
+#EXTINF:-1,Es: A PUNT (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/822712
+#EXTINF:-1,Es: CMM (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/822723
+#EXTINF:-1,ETB 1 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/542031
+#EXTINF:-1,ETB 2 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135976
+#EXTINF:-1,LA OTRA HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/613283
+#EXTINF:-1,Onda Cadiz (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823122
+#EXTINF:-1,Onda Cadiz Tv FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824245
+#EXTINF:-1,Sal TV Cadiz (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824244
+#EXTINF:-1,TELE Madrid FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135906
+#EXTINF:-1,Telemadrid FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135930
+#EXTINF:-1,TV Galicia (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/822717
+#EXTINF:-1,TV Galicia 2 (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/822720
+#EXTINF:-1,TV Galicia Europa HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136005
+#EXTINF:-1,TV3 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136193
+#EXTINF:-1,TVE Internacional HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136194
+#EXTINF:-1,AXN HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/398637
+#EXTINF:-1,AXN White FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135912
+#EXTINF:-1,Calle 13 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136034
+#EXTINF:-1,Comedy Central HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136035
+#EXTINF:-1,M. Series Mania HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136133
+#EXTINF:-1,M.series HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136061
+#EXTINF:-1,Movistar Series 2 HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/580102
+#EXTINF:-1,Movistar Series Mania HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/135923
+#EXTINF:-1,Star+ FHD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/824292
+#EXTINF:-1,SYFY HD (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/136041
+#EXTINF:-1,Warner TV (ES)
+http://x96.us:8880/4bc32ce3/2bf42de8/823217
+#EXTINF:-1,⭐ Free Palestine 14 ⭐
+http://x96.us:8880/4bc32ce3/2bf42de8/791398
+#EXTINF:-1,CA: Animal Planet
+http://x96.us:8880/4bc32ce3/2bf42de8/849872
+#EXTINF:-1,CA: BET
+http://x96.us:8880/4bc32ce3/2bf42de8/849968
+#EXTINF:-1,CA: CBC Montreal
+http://x96.us:8880/4bc32ce3/2bf42de8/849971
+#EXTINF:-1,CA: City TV Montreal
+http://x96.us:8880/4bc32ce3/2bf42de8/849974
+#EXTINF:-1,CA: CTV Life
+http://x96.us:8880/4bc32ce3/2bf42de8/849978
+#EXTINF:-1,CA: ELLE FICTIONS
+http://x96.us:8880/4bc32ce3/2bf42de8/849981
+#EXTINF:-1,CA: Food Network
+http://x96.us:8880/4bc32ce3/2bf42de8/849985
+#EXTINF:-1,CA: Game TV
+http://x96.us:8880/4bc32ce3/2bf42de8/849989
+#EXTINF:-1,CA: LCP Assemblee Nationale
+http://x96.us:8880/4bc32ce3/2bf42de8/849965
+#EXTINF:-1,CA: Magnolia Network
+http://x96.us:8880/4bc32ce3/2bf42de8/849997
+#EXTINF:-1,CA: National Geographic
+http://x96.us:8880/4bc32ce3/2bf42de8/850000
+#EXTINF:-1,CA: Super Channel Vault
+http://x96.us:8880/4bc32ce3/2bf42de8/850003
+#EXTINF:-1,CA: TFO
+http://x96.us:8880/4bc32ce3/2bf42de8/850006
+#EXTINF:-1,CA: THE WEATHER NETWORK
+http://x96.us:8880/4bc32ce3/2bf42de8/850009
+#EXTINF:-1,CA: TVa Sports 2
+http://x96.us:8880/4bc32ce3/2bf42de8/850012
+#EXTINF:-1,CA: TVO
+http://x96.us:8880/4bc32ce3/2bf42de8/850015
+#EXTINF:-1,CA: W NETWORK
+http://x96.us:8880/4bc32ce3/2bf42de8/850018
+#EXTINF:-1,CA: WILD TV
+http://x96.us:8880/4bc32ce3/2bf42de8/850021
+#EXTINF:-1,CA: YTV
+http://x96.us:8880/4bc32ce3/2bf42de8/850024
+#EXTINF:-1,CA: TSN 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/652200
+#EXTINF:-1,|CA-FR| NOOVO V-TELE
+http://x96.us:8880/4bc32ce3/2bf42de8/785547
+#EXTINF:-1,CA-FR: ADDIK TV
+http://x96.us:8880/4bc32ce3/2bf42de8/785556
+#EXTINF:-1,CA-FR: Canal Vie
+http://x96.us:8880/4bc32ce3/2bf42de8/785701
+#EXTINF:-1,CA-FR: CASA
+http://x96.us:8880/4bc32ce3/2bf42de8/785555
+#EXTINF:-1,CA-FR: Disney la Chaine
+http://x96.us:8880/4bc32ce3/2bf42de8/785699
+#EXTINF:-1,CA-FR: ELLE FICTIONS HD
+http://x96.us:8880/4bc32ce3/2bf42de8/785557
+#EXTINF:-1,CA-FR: EVASION HD
+http://x96.us:8880/4bc32ce3/2bf42de8/785558
+#EXTINF:-1,CA-FR: FRISSONS TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/785559
+#EXTINF:-1,CA-FR: HISTORIA
+http://x96.us:8880/4bc32ce3/2bf42de8/785554
+#EXTINF:-1,CA-FR: ICI ARTV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/785698
+#EXTINF:-1,CA-FR: MAX HD
+http://x96.us:8880/4bc32ce3/2bf42de8/785560
+#EXTINF:-1,CA-FR: MétéoMédia
+http://x96.us:8880/4bc32ce3/2bf42de8/785700
+#EXTINF:-1,CA-FR: TELETOON FRENCH HD
+http://x96.us:8880/4bc32ce3/2bf42de8/785552
+#EXTINF:-1,CA: DISCOVERY
+http://x96.us:8880/4bc32ce3/2bf42de8/737054
+#EXTINF:-1,CA: NTV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/722595
+#EXTINF:-1,CA: Addik TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/691397
+#EXTINF:-1,CA: Canal D HD
+http://x96.us:8880/4bc32ce3/2bf42de8/691399
+#EXTINF:-1,CA: Series PLUS HD
+http://x96.us:8880/4bc32ce3/2bf42de8/691398
+#EXTINF:-1,CA: Canada ONE HD
+http://x96.us:8880/4bc32ce3/2bf42de8/689901
+#EXTINF:-1,CA: Toronto 360 TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/688434
+#EXTINF:-1,CA: Travel Escape HD
+http://x96.us:8880/4bc32ce3/2bf42de8/607260
+#EXTINF:-1,CA CTV Vancouver HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98350
+#EXTINF:-1,CA: ABC HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98311
+#EXTINF:-1,CA: ABC Spark FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/98490
+#EXTINF:-1,CA: Adult SWIM HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108804
+#EXTINF:-1,CA: AMC FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/98312
+#EXTINF:-1,CA: AMI télé
+http://x96.us:8880/4bc32ce3/2bf42de8/98300
+#EXTINF:-1,CA: APTN HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108606
+#EXTINF:-1,CA: A&E FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/98310
+#EXTINF:-1,CA: BBC Canada HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108642
+#EXTINF:-1,CA: BBC NEWS HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98313
+#EXTINF:-1,CA: BBC Toronto Gaunda Punjab HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98286
+#EXTINF:-1,CA: BBC World NEWS HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98314
+#EXTINF:-1,CA: BEIN Sports HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98315
+#EXTINF:-1,CA: BET HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98316
+#EXTINF:-1,CA: BNN Bloomberg HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108635
+#EXTINF:-1,CA: BNN HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98318
+#EXTINF:-1,CA: Bravo HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98319
+#EXTINF:-1,CA: Bravo TV FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/98399
+#EXTINF:-1,CA: Box-office 1HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98252
+#EXTINF:-1,CA: Cablepulse 24 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108808
+#EXTINF:-1,CA: Canal D (FR) HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98321
+#EXTINF:-1,CA: Cartoon Network HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108634
+#EXTINF:-1,CA: CINE POP HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98333
+#EXTINF:-1,CA: CBC Charlottetown HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98325
+#EXTINF:-1,CA: CBC Halifax HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98327
+#EXTINF:-1,CA: CBC NEWS Network HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108664
+#EXTINF:-1,CA: CBC Ottawa HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98328
+#EXTINF:-1,CA: CBC Regina HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98329
+#EXTINF:-1,CA: CBC ST Johns HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108662
+#EXTINF:-1,CA: CBC Toronto (cblt) HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108813
+#EXTINF:-1,CA: CBC Toronto CBLT HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98391
+#EXTINF:-1,CA: CBC Vancouver HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108713
+#EXTINF:-1,CA: CBC Windsor HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98392
+#EXTINF:-1,CA: CBC Winnipeg HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98331
+#EXTINF:-1,CA: CBC Yellowknife HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108663
+#EXTINF:-1,CA: CBS HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98432
+#EXTINF:-1,CA: CHCH FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/98332
+#EXTINF:-1,CA: CITY FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/98401
+#EXTINF:-1,CA: CITY Toronto HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108717
+#EXTINF:-1,CA: CITY TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98334
+#EXTINF:-1,CA: CMT HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98337
+#EXTINF:-1,CA: CNBC HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98338
+#EXTINF:-1,CA: CNN HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98339
+#EXTINF:-1,CA: CNN International HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98340
+#EXTINF:-1,CA: Cooking Channel HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132448
+#EXTINF:-1,CA: Cottage LIFE FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/98342
+#EXTINF:-1,CA: CP 24 | HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132501
+#EXTINF:-1,CA: CP24 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108661
+#EXTINF:-1,CA: CPAC EN HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98491
+#EXTINF:-1,CA: CPAC HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108677
+#EXTINF:-1,CA: Crave 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108625
+#EXTINF:-1,CA: Crave 1 | HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132449
+#EXTINF:-1,CA: Crave 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98343
+#EXTINF:-1,CA: Crave 3 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98344
+#EXTINF:-1,CA: Crave 4 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98345
+#EXTINF:-1,CA: Crime & Investigation HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108727
+#EXTINF:-1,CA: Crime+ Investigation HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108824
+#EXTINF:-1,CA: CTV 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98346
+#EXTINF:-1,CA: CTV 2 Vancouver HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98347
+#EXTINF:-1,CA: CTV 2 Toronto
+http://x96.us:8880/4bc32ce3/2bf42de8/797029
+#EXTINF:-1,CA: CTV Comedy  HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98435
+#EXTINF:-1,CA: CTV Comedy HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98341
+#EXTINF:-1,CA: CTV Drama FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/108665
+#EXTINF:-1,CA: CTV Halifax HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98348
+#EXTINF:-1,CA: CTV Kitchener HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108828
+#EXTINF:-1,CA: CTV Montreal HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108655
+#EXTINF:-1,CA: CTV NEWS Newtork HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108656
+#EXTINF:-1,CA: CTV Ottawa 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108657
+#EXTINF:-1,CA: CTV Ottawa 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108658
+#EXTINF:-1,CA: CTV Sci-fi HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98349
+#EXTINF:-1,CA: CTV Toronto | SD
+http://x96.us:8880/4bc32ce3/2bf42de8/98335
+#EXTINF:-1,CA: CTV2 Ottawa HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98351
+#EXTINF:-1,CA: Dejaview HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98352
+#EXTINF:-1,CA: Discovery Science HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108636
+#EXTINF:-1,CA: Discovery Science HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108737
+#EXTINF:-1,CA: Discovery Science | HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132455
+#EXTINF:-1,CA: Discovery Velocity HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98353
+#EXTINF:-1,CA: Disney JR HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108739
+#EXTINF:-1,CA: Disney Junior HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98354
+#EXTINF:-1,CA: Disney XD HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108629
+#EXTINF:-1,CA: DIY Network FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/98355
+#EXTINF:-1,CA: Documentary Channel HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108835
+#EXTINF:-1,CA: Dtour HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108608
+#EXTINF:-1,CA: E! Entertainment HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108609
+#EXTINF:-1,CA: E! FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/98356
+#EXTINF:-1,CA: E! HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98357
+#EXTINF:-1,CA: EWTN Canada HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108640
+#EXTINF:-1,CA: EWTN TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98358
+#EXTINF:-1,FR: Canal  Family
+http://x96.us:8880/4bc32ce3/2bf42de8/98403
+#EXTINF:-1,CA: Family Chrgd HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108631
+#EXTINF:-1,CA: Family JR HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108632
+#EXTINF:-1,CA: Fight Network HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98404
+#EXTINF:-1,CA: Fight Network HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108792
+#EXTINF:-1,CA: FOX FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/98359
+#EXTINF:-1,CA: FOX Sports Racing HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108648
+#EXTINF:-1,CA: FR Francophonie 24 TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108641
+#EXTINF:-1,CA: FR Rogers TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108671
+#EXTINF:-1,CA: FR Tamil Vision TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108687
+#EXTINF:-1,CA: FR UNIS TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108675
+#EXTINF:-1,CA: FX HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108611
+#EXTINF:-1,CA: GAME SHOW HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98361
+#EXTINF:-1,CA: Global Calgary HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98290
+#EXTINF:-1,CA: Global Edmonton HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108660
+#EXTINF:-1,CA: Global FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/98406
+#EXTINF:-1,CA: Global National TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108672
+#EXTINF:-1,CA: Global Toronto HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108750
+#EXTINF:-1,CA: GOLF Channel HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98363
+#EXTINF:-1,CA: GSN FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/98364
+#EXTINF:-1,CA: GSN GAME SHOW Network TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98433
+#EXTINF:-1,CA: HBO 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98365
+#EXTINF:-1,CA: HBO 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108685
+#EXTINF:-1,CA: HBO | HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132461
+#EXTINF:-1,CA: Headline NEWS HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108681
+#EXTINF:-1,CA: HGTV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108858
+#EXTINF:-1,CA: History  HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98368
+#EXTINF:-1,CA: History Channel HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108637
+#EXTINF:-1,CA: HLN HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108679
+#EXTINF:-1,CA: ICI Montreal HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108862
+#EXTINF:-1,CA: ICI RDI HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98304
+#EXTINF:-1,CA: ICI RDI HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98291
+#EXTINF:-1,CA: IIPC TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98292
+#EXTINF:-1,CA: Investigation Discovery HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98372
+#EXTINF:-1,CA: Knowledge KIDS HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98373
+#EXTINF:-1,CA: LCN HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98250
+#EXTINF:-1,CA: Lifetime Movie Network HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98375
+#EXTINF:-1,CA: Lifetime | HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132466
+#EXTINF:-1,CA: LOVE Nature HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98377
+#EXTINF:-1,CA: Makeful TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108680
+#EXTINF:-1,CA: Movietime HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132467
+#EXTINF:-1,CA: Msnbc HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98379
+#EXTINF:-1,CA: MTV 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98380
+#EXTINF:-1,CA: MTV LIVE HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98438
+#EXTINF:-1,CA: MUCH HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98381
+#EXTINF:-1,CA: MUCH Music HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98382
+#EXTINF:-1,CA: NBA TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108667
+#EXTINF:-1,CA: NFL Network HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108683
+#EXTINF:-1,CA: NHL Network HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98383
+#EXTINF:-1,CA: Nicktoons HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108876
+#EXTINF:-1,CA: OLN HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98308
+#EXTINF:-1,CA: Pardesi TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98294
+#EXTINF:-1,CA: PBS HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108616
+#EXTINF:-1,CA: PBS KIDS HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108684
+#EXTINF:-1,CA: Peach TREE HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108769
+#EXTINF:-1,CA: Peachtree FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/98408
+#EXTINF:-1,CA: Prime ASIA TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108682
+#EXTINF:-1,CA: Prime Canada TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98295
+#EXTINF:-1,CA: Prise  HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98385
+#EXTINF:-1,CA: RDI HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98418
+#EXTINF:-1,CA: RDS 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108883
+#EXTINF:-1,CA: RDS HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98305
+#EXTINF:-1,CA: RDS INFO HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98306
+#EXTINF:-1,CA: SALT AND Light TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98482
+#EXTINF:-1,CA: Sardari TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98281
+#EXTINF:-1,CA: Showcase HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108626
+#EXTINF:-1,CA: Silver Screen Classics HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98394
+#EXTINF:-1,CA: Slice HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98409
+#EXTINF:-1,CA: Spike ( Paramount ) HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108617
+#EXTINF:-1,CA: Sportsnet 360 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108645
+#EXTINF:-1,CA: Sportsnet EAST HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108644
+#EXTINF:-1,CA: Sportsnet NEW YORK HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98486
+#EXTINF:-1,CA: Sportsnet ONE HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108643
+#EXTINF:-1,CA: Sportsnet Ontario HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108894
+#EXTINF:-1,CA: Sportsnet Pacific FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/108895
+#EXTINF:-1,CA: Sportsnet Pacific HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98410
+#EXTINF:-1,CA: Sportsnet WEST FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/108896
+#EXTINF:-1,CA: SPT - Sportsnet 360 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108693
+#EXTINF:-1,CA: Starz 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108669
+#EXTINF:-1,CA: Starz 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108630
+#EXTINF:-1,CA: Super Channel 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98309
+#EXTINF:-1,CA: Super Ecran 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98420
+#EXTINF:-1,CA: Super Ecran 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98421
+#EXTINF:-1,CA: Super Ecran 3 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98422
+#EXTINF:-1,CA: Super Ecran 4 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98423
+#EXTINF:-1,CA: TCM HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108627
+#EXTINF:-1,CA: TELE Quebec HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98307
+#EXTINF:-1,CA: Telemagino HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108907
+#EXTINF:-1,CA: THE Shopping Channel HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98283
+#EXTINF:-1,CA: TLC HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108618
+#EXTINF:-1,CA: Treehouse HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98299
+#EXTINF:-1,CA: TSC HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108620
+#EXTINF:-1,CA: TSN 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108621
+#EXTINF:-1,CA: TSN 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108622
+#EXTINF:-1,CA: TSN 3 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108623
+#EXTINF:-1,CA: TSN 4 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/98411
+#EXTINF:-1,CA: TSN 4 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/108950
+#EXTINF:-1,CA: TSN 5 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108624
+#EXTINF:-1,CA: TV5 Quebec HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98429
+#EXTINF:-1,CA: TVA Montreal HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108921
+#EXTINF:-1,CA: TVA Sports 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108646
+#EXTINF:-1,CA: TVA Sports 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108647
+#EXTINF:-1,CA: TVA Sports HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98424
+#EXTINF:-1,CA: UNIS TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108923
+#EXTINF:-1,CA: World Fishing Network HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98425
+#EXTINF:-1,CA: WWE Network HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108668
+#EXTINF:-1,CA: YES TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98396
+#EXTINF:-1,CA: Zeste HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108935
+#EXTINF:-1,CA:rds INFO FR HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132439
+#EXTINF:-1,CA:tele Quebec FR HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132441
+#EXTINF:-1,CA:TVa Sports FR HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132440
+#EXTINF:-1,CA: Z TELE HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108934
+#EXTINF:-1,[Ca-fr] ICI Vancouver FR HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132435
+#EXTINF:-1,CA: CPAC | HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98251
+#EXTINF:-1,CA: FOX NEWS HD
+http://x96.us:8880/4bc32ce3/2bf42de8/98360
+#EXTINF:-1,CA: HBO 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/106515
+#EXTINF:-1,BE: Canvas HD
+http://x96.us:8880/4bc32ce3/2bf42de8/29860
+#EXTINF:-1,BE: CLUB RTL HD
+http://x96.us:8880/4bc32ce3/2bf42de8/29866
+#EXTINF:-1,BE: EEN HD
+http://x96.us:8880/4bc32ce3/2bf42de8/29868
+#EXTINF:-1,BE: Eleven Sports 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/29876
+#EXTINF:-1,BE: Eleven Sports 3 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/29881
+#EXTINF:-1,BE: LA DEUX HD
+http://x96.us:8880/4bc32ce3/2bf42de8/29864
+#EXTINF:-1,BE: LA Trois HD
+http://x96.us:8880/4bc32ce3/2bf42de8/29865
+#EXTINF:-1,BE: LA UNE HD
+http://x96.us:8880/4bc32ce3/2bf42de8/29867
+#EXTINF:-1,BE: PLAY Sports 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/29882
+#EXTINF:-1,BE: PLUG RTL HD
+http://x96.us:8880/4bc32ce3/2bf42de8/29862
+#EXTINF:-1,BE: Q2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/29872
+#EXTINF:-1,BE: RTL TVI HD
+http://x96.us:8880/4bc32ce3/2bf42de8/29871
+#EXTINF:-1,BE: VIJF TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/29870
+#EXTINF:-1,BE: Vitaya HD
+http://x96.us:8880/4bc32ce3/2bf42de8/29861
+#EXTINF:-1,BE: ZES HD
+http://x96.us:8880/4bc32ce3/2bf42de8/29873
+#EXTINF:-1,BE: AB3 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108070
+#EXTINF:-1,BE: BEL RTL HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108135
+#EXTINF:-1,BE: BX1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108082
+#EXTINF:-1,BE: CANVAS FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/108046
+#EXTINF:-1,BE: Eclips TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108093
+#EXTINF:-1,BE: EEN HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108049
+#EXTINF:-1,BE: Eleven Sport 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108094
+#EXTINF:-1,BE: Elevensport 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108150
+#EXTINF:-1,BE: Ketnet Junior HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108042
+#EXTINF:-1,BE: LA UNE HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108128
+#EXTINF:-1,BE: NAT GEO HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108104
+#EXTINF:-1,BE: NRJ HITS TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108107
+#EXTINF:-1,BE: RTL TVI FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/108109
+#EXTINF:-1,BE: RTL CLUB HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108063
+#EXTINF:-1,BE: Vitaya FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/108057
+#EXTINF:-1,BE: VTM HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108059
+#EXTINF:-1,BE: VTM Kazoom HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108123
+#EXTINF:-1,BE: VTM KIDS HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108155
+#EXTINF:-1,BE: ZES TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108156
+#EXTINF:-1,BE: AB 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132138
+#EXTINF:-1,BE: VOO Sport World 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132146
+#EXTINF:-1,BE: VTM 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132147
+#EXTINF:-1,BE: VTM 4 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/132149
+#EXTINF:-1,BE: TVL HD
+http://x96.us:8880/4bc32ce3/2bf42de8/108118
+#EXTINF:-1,BE: Eleven Sports 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/29880
+#EXTINF:-1,⭐⭐⭐ Entertainment ⭐⭐⭐
+http://x96.us:8880/4bc32ce3/2bf42de8/390091
+#EXTINF:-1,IT: Alice HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135353
+#EXTINF:-1,IT: Aurora ARTE HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135355
+#EXTINF:-1,IT: Canale 5 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135364
+#EXTINF:-1,IT: Canale 5 Mediaset HD
+http://x96.us:8880/4bc32ce3/2bf42de8/279576
+#EXTINF:-1,IT: Canale 7 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135365
+#EXTINF:-1,IT: Carina TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135368
+#EXTINF:-1,IT: Cielo HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135372
+#EXTINF:-1,IT: Elive TV Brescia HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135391
+#EXTINF:-1,IT: Inter Channel HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135406
+#EXTINF:-1,IT: IRIS HD
+http://x96.us:8880/4bc32ce3/2bf42de8/522017
+#EXTINF:-1,IT: Italia 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/680668
+#EXTINF:-1,IT: LA 5 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135411
+#EXTINF:-1,IT: LA 7D HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135412
+#EXTINF:-1,IT: Laeffe HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135415
+#EXTINF:-1,IT: Mediaset Extra HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135420
+#EXTINF:-1,IT: Mediaset Italia 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135422
+#EXTINF:-1,IT: RAI 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135445
+#EXTINF:-1,IT: RAI 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135446
+#EXTINF:-1,IT: RAI 3 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135447
+#EXTINF:-1,IT: RAI 4 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135448
+#EXTINF:-1,IT: RAI 5 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/114082
+#EXTINF:-1,IT: RAI GULP HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135450
+#EXTINF:-1,IT: RAI YOYO HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135458
+#EXTINF:-1,IT: RETE 4 FHD
+http://x96.us:8880/4bc32ce3/2bf42de8/150192
+#EXTINF:-1,IT: RSI LA 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135464
+#EXTINF:-1,IT: RSI LA 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135465
+#EXTINF:-1,IT: SKY Atlantic HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135471
+#EXTINF:-1,IT: Telecitta HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135528
+#EXTINF:-1,IT: TV7 Triveneta HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135539
+#EXTINF:-1,IT: TV8 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135540
+#EXTINF:-1,⭐⭐⭐ Movies & Series ⭐⭐⭐
+http://x96.us:8880/4bc32ce3/2bf42de8/390089
+#EXTINF:-1,IT: FOX LIFE HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135400
+#EXTINF:-1,IT: Premium Action 24 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135562
+#EXTINF:-1,IT: Premium Cinema 2 24 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135566
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135565
+#EXTINF:-1,IT: Premium Crime HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135438
+#EXTINF:-1,IT: RAI Movie HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135452
+#EXTINF:-1,IT: RAI Premium HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135454
+#EXTINF:-1,IT: SKY ARTE HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135470
+#EXTINF:-1,IT: SKY Calcio 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/582734
+#EXTINF:-1,IT: SKY Calcio 3 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/582735
+#EXTINF:-1,IT: SKY Calcio 4 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/582736
+#EXTINF:-1,IT: SKY Calcio 5 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/582737
+#EXTINF:-1,IT: SKY Calcio HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135550
+#EXTINF:-1,IT: SKY Cinema Action HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135346
+#EXTINF:-1,IT: SKY Cinema Collection HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135345
+#EXTINF:-1,IT: SKY Cinema Drama HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135344
+#EXTINF:-1,IT: SKY Cinema Family HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135342
+#EXTINF:-1,IT: SKY Cinema Romance HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135484
+#EXTINF:-1,IT: SKY Cinema Suspense HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135341
+#EXTINF:-1,IT: SKY Cinema UNO +24 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135339
+#EXTINF:-1,IT: SKY Cinema UNO HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135338
+#EXTINF:-1,IT: SKY Primafila 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135489
+#EXTINF:-1,IT: SKY Primafila 3 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135490
+#EXTINF:-1,IT: SKY Primafila 4 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135499
+#EXTINF:-1,IT: SKY Primafila 6 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135494
+#EXTINF:-1,IT: SKY Primafila 7 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135502
+#EXTINF:-1,IT: SKY Primafila 8 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135503
+#EXTINF:-1,IT: SKY Primafila 9 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135492
+#EXTINF:-1,IT: SKY UNO HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135518
+#EXTINF:-1,⭐⭐⭐ KIDS ⭐⭐⭐
+http://x96.us:8880/4bc32ce3/2bf42de8/390093
+#EXTINF:-1,IT: BABY TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135357
+#EXTINF:-1,IT: Boing HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135358
+#EXTINF:-1,IT: Cartoon Network HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135369
+#EXTINF:-1,IT: Cartoonito HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135370
+#EXTINF:-1,IT: Disney Junior HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135383
+#EXTINF:-1,IT: Frisbee HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135401
+#EXTINF:-1,IT: K2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135410
+#EXTINF:-1,IT: NICK JR HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135427
+#EXTINF:-1,⭐⭐⭐ Sports ⭐⭐⭐
+http://x96.us:8880/4bc32ce3/2bf42de8/390088
+#EXTINF:-1,IT: SKY Sport 24 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135506
+#EXTINF:-1,IT: SKY Sport 251 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135507
+#EXTINF:-1,IT: SKY Sport Arena HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135510
+#EXTINF:-1,IT: SKY Sport Football HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135512
+#EXTINF:-1,IT: SKY Sport MOTO GP HD
+http://x96.us:8880/4bc32ce3/2bf42de8/482125
+#EXTINF:-1,IT: SKY Sport NBA HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135514
+#EXTINF:-1,IT: SKY Sport UNO HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135516
+#EXTINF:-1,IT: DAZN 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135547
+#EXTINF:-1,IT: DAZN 3 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/484348
+#EXTINF:-1,IT: DAZN 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135375
+#EXTINF:-1,IT: Eurosport 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135394
+#EXTINF:-1, IT: EUROSPORT1
+http://x96.us:8880/4bc32ce3/2bf42de8/812648
+#EXTINF:-1, IT: EUROSPORT2
+http://x96.us:8880/4bc32ce3/2bf42de8/812649
+#EXTINF:-1,IT: RAI Sport + HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135557
+#EXTINF:-1,IT: RAI Sport 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135558
+#EXTINF:-1,IT: RAI Sport 2 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135559
+#EXTINF:-1,IT: Mediaset 20 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135419
+#EXTINF:-1,IT: Mediaset Italia 1 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135421
+#EXTINF:-1,IT: MOTOR TREND
+http://x96.us:8880/4bc32ce3/2bf42de8/714371
+#EXTINF:-1,⭐⭐⭐ Documentary ⭐⭐⭐
+http://x96.us:8880/4bc32ce3/2bf42de8/390087
+#EXTINF:-1,IT: Blaze HD
+http://x96.us:8880/4bc32ce3/2bf42de8/582732
+#EXTINF:-1,IT: Caccia E Pesca HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135360
+#EXTINF:-1,IT: Discovery Channel HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135379
+#EXTINF:-1,IT: Discovery Science HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135381
+#EXTINF:-1,IT: DMAX HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135384
+#EXTINF:-1,IT: Focus HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135396
+#EXTINF:-1,IT: Giallo HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135403
+#EXTINF:-1,IT: NOVE TV HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135428
+#EXTINF:-1,IT: RAI Scuola HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135455
+#EXTINF:-1,IT: RAI Storia HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135457
+#EXTINF:-1,IT: REAL TIME HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135460
+#EXTINF:-1,⭐⭐⭐ NEWS ⭐⭐⭐
+http://x96.us:8880/4bc32ce3/2bf42de8/582731
+#EXTINF:-1,IT: RAI NEWS 24 HD
+http://x96.us:8880/4bc32ce3/2bf42de8/135453
+#EXTINF:-1,IT: TV2000
+http://x96.us:8880/4bc32ce3/2bf42de8/714374
