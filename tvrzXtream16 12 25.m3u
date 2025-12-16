@@ -79,6 +79,12 @@ https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrCWVxLd/sonyonefr.png",SONY ONE THE BLACKLIST
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Blacklist" tvg-logo="https://static.frequency.com/studio/sony/channels/FR_LG_FAST_Blacklist_ChannelLogo_Horizontal.png" group-title="Séries-Films",Sony One Blacklist
+https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8#origine=https://tvradiozap.eu?1237
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Favoris" tvg-logo="https://static.frequency.com/studio/sony/channels/FR_LG_FAST_Faves_ChannelLogo_Horizontal.png" group-title="Séries-Films",Sony One Favoris
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8#origine=https://tvradiozap.eu?1238
+#EXTINF:-1 tvg-id="BBCDrama.uk@France" tvg-logo="https://i.postimg.cc/dtGKJ8HB/bbcdrama.png" group-title="Series",BBC Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eff52b4b-c804-4f5a-968a-d48a2898e184
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VvMKr5V/wildside.jpg",WILD SIDE TV
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ViaGrandParis.fr" tvg-name="Le Figaro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Le_Figaro_TV_IDF_%282023%29.png/330px-Le_Figaro_TV_IDF_%282023%29.png" group-title="Culture",Le Figaro TV
@@ -95,8 +101,6 @@ https://d31lyfwi8gzfyr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d225rs9gbjxb5j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bdlabwqcrqc2n/RMC_Wow_FR.m3u8#origine=https://tvradiozap.eu?1016
 #EXTINF:-1 tvg-id="RMCTalkInfo.fr" tvg-name="RMC Talk Info" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCTalkinfo.jpg" group-title="Info",RMC Talk Info
 https://d75bm5ggq4k1o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gui89fv6hprsj/RMC_TALK_INFO_FR.m3u8#origine=https://tvradiozap.eu?869
-#EXTINF:-1 tvg-id="AfterFootTV.fr" tvg-name="After Foot TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/After-foot-logo-2023.svg/545px-After-foot-logo-2023.svg.png" group-title="Sport",After Foot TV
-https://d278gam2ft6q08.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ic4hqa502el6/AfterfootTV_FR.m3u8#origine=https://tvradiozap.eu?1260
 #EXTINF:-1 tvg-id="RMCAlerteSecours.fr" tvg-name="RMC Alerte Secours" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCAlertesecours.jpg" group-title="Reportages",RMC Alerte Secours
 https://d18py9aevgxe9g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7m4nvp688td5a/RMC_alerte_secours_FR.m3u8#origine=https://tvradiozap.eu?1018
 #EXTINF:-1 tvg-id="RMCJiraidormirchezvous.fr" tvg-name="RMC J'irai dormir chez vous" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCJDCVmin.jpg" group-title="Voyage",RMC J'irai dormir chez vous
@@ -211,14 +215,10 @@ https://tvradiozap.eu/tools/mng-m3u8.php/936.1/60/master.m3u8
 https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/e/26032/euronews-fr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png",TV5MONDE INFO
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony One Blacklist" tvg-logo="https://static.frequency.com/studio/sony/channels/FR_LG_FAST_Blacklist_ChannelLogo_Horizontal.png" group-title="Séries-Films",Sony One Blacklist
-https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8#origine=https://tvradiozap.eu?1237
-#EXTINF:-1 tvg-id="" tvg-name="Sony One Favoris" tvg-logo="https://static.frequency.com/studio/sony/channels/FR_LG_FAST_Faves_ChannelLogo_Horizontal.png" group-title="Séries-Films",Sony One Favoris
-https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8#origine=https://tvradiozap.eu?1238
-#EXTINF:-1 tvg-id="BBCDrama.uk@France" tvg-logo="https://i.postimg.cc/dtGKJ8HB/bbcdrama.png" group-title="Series",BBC Drama
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eff52b4b-c804-4f5a-968a-d48a2898e184
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/ekip.m3u8
+#EXTINF:-1 tvg-id="AfterFootTV.fr" tvg-name="After Foot TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/After-foot-logo-2023.svg/545px-After-foot-logo-2023.svg.png" group-title="Sport",After Foot TV
+https://d278gam2ft6q08.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ic4hqa502el6/AfterfootTV_FR.m3u8#origine=https://tvradiozap.eu?1260
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFf6hc4T/fifaplus.jpg",FIFA+ FR
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1XYdy6j/canal9.png",CANAL 9
