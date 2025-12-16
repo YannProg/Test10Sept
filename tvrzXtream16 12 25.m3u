@@ -113,20 +113,8 @@ https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d1j1h1zdadb91f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-50l4tj8p1zx6l/moto.m3u8#origine=https://tvradiozap.eu?851
 #EXTINF:-1 tvg-id="FR: Drive TV" tvg-name="Drive TV" tvg-logo="https://tvradiozap.eu/tv/logos/drivetv.png" group-title="Art de vivre",Drive TV
 https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8#origine=https://tvradiozap.eu?1096
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xs1PxZs/driveauto.png",DRIVE AUTO
-https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0sdMx5Z/mtrvsn.png",MOTORVISION TV
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
-#EXTINF:-1 tvg-id="" tvg-name="C'est pas Sorcier" tvg-logo="https://images.pluto.tv/channels/63b579961bdba100071214cb/thumbnail.jpg" group-title="Sciences",C'est pas Sorcier
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b579961bdba100071214cb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06ff23-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=410cc83b-4396-41a0-b726-70e8f1e3fea4#origine=https://tvradiozap.eu?657
-#EXTINF:-1 tvg-id="FRBD5100003TP" tvg-name="Epicurieux" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100003TP_20240507T094247SQUARE.png" group-title="Sciences",Epicurieux
-https://d1dzvywp5tcxbn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ryq1as86j3gxc/epic.m3u8#origine=https://tvradiozap.eu?985
-#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="https://www.futura-sciences.com/svg/logo-futura-light.svg" group-title="Sciences",Futura
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5979#origine=https://tvradiozap.eu?1147
-#EXTINF:-1 tvg-id="" tvg-name="Futura Sciences" tvg-logo="https://www.futura-sciences.com/svg/logo-futura-light.svg" group-title="Sciences",Futura Sciences
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=10243#origine=https://tvradiozap.eu?1010
-#EXTINF:-1 tvg-id="" tvg-name="Science & Vie" tvg-logo="https://www.bordeaux-neurocampus.fr/wp-content/uploads/2019/03/logo-sciences-et-vie.jpg" group-title="Sciences",Science & Vie
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=14172#origine=https://tvradiozap.eu?1241
 #EXTINF:-1 tvg-id="" tvg-name="Rustica" tvg-logo="https://www.rustica.fr/assets_2022/images/logos/rustica-noir.svg" group-title="Art de vivre",Rustica
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7761#origine=https://tvradiozap.eu?1220
 #EXTINF:-1 tvg-id="" tvg-name="Système D" tvg-logo="https://www.media-participations.com/fichiers/logos/presse/logo_systemeD.png" group-title="Art de vivre",Système D
@@ -155,8 +143,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15226#origine=https://tvra
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8edad922b10b000753bc37/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057883-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a243842a-2a92-4ca0-bdea-73f35b29bf5c
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adjugé vendu !
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64bab8ba5dc1660008969b5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06ff28-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5c583725-776e-440c-a02f-17dca14750d3
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",C'est pas sorcier
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b579961bdba100071214cb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06ff23-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=410cc83b-4396-41a0-b726-70e8f1e3fea4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ChVvjpF/bfmgr.jpg",BFM GRAND REPORTAGES
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="Crime360.us@SD" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="Documentary",Crime 360 (720p)
@@ -215,12 +201,8 @@ https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v
 https://tvradiozap.eu/tv/m3u8/france24.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg/langfr-300px-LCI_-_Logo_%28Ao%C3%BBt_2017%29.svg.png" group-title="Info",LCI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8#origine=https://tvradiozap.eu?899
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="1. |FR|???? INFORMATION",BFM TV
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png",FRANCE INFO:
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg",LE MÉDIA TV -1H
@@ -233,14 +215,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8#origine=https://tvradiozap.eu?1237
 #EXTINF:-1 tvg-id="" tvg-name="Sony One Favoris" tvg-logo="https://static.frequency.com/studio/sony/channels/FR_LG_FAST_Faves_ChannelLogo_Horizontal.png" group-title="Séries-Films",Sony One Favoris
 https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8#origine=https://tvradiozap.eu?1238
-#EXTINF:-1 tvg-id="FRBD4100013LN" tvg-name="Motor Racing" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100013LN_20231115T012253SQUARE.png_20231115012254.png" group-title="Sport",Motor Racing
-https://d1j1h1zdadb91f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-50l4tj8p1zx6l/moto.m3u8#origine=https://tvradiozap.eu?851
-#EXTINF:-1 tvg-id="" tvg-name="Arte Invitation au Voyage" tvg-logo="https://princealbert1.mc/var/cap/storage/images/_aliases/w2160/7/7/4/0/50477-1-fre-FR/1e396f6f66bb-th-1-.jpg2.jpg" group-title="Voyage",Arte Invitation au Voyage
-https://d3223vg0o80ccf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xn2vfltkhli08/Invitationauvoyage_FR.m3u8#origine=https://tvradiozap.eu?91
-#EXTINF:-1 tvg-id="FR:.Travelxp.fr" tvg-name="Travelxp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="Voyage",Travelxp
-https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8#origine=https://tvradiozap.eu?528
-#EXTINF:-1 tvg-id="" tvg-name="TV5Monde Voyage" tvg-logo="https://worldscreen.com/wp-content/uploads/2024/10/TV5MondeVoyage-Logo-1024.jpg" group-title="Voyage",TV5Monde Voyage
-https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8#origine=https://tvradiozap.eu?417
 #EXTINF:-1 tvg-id="BBCDrama.uk@France" tvg-logo="https://i.postimg.cc/dtGKJ8HB/bbcdrama.png" group-title="Series",BBC Drama
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35a74c63c3c0008df6a90/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c5-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eff52b4b-c804-4f5a-968a-d48a2898e184
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE TV
