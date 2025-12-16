@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,-------------- France
+//
 #EXTINF:0,2 - France 2 (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=ld
 #EXTINF:0,2 - France 2 (HD)
@@ -985,3 +987,4 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=909&flavour=ld
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=919&flavour=ld
 #EXTINF:0,999 - L'Aktu Freebox TV (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=896&flavour=ld
+
