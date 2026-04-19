@@ -1,60 +1,323 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CNews.fr@SD",CNews (1080p) [Geo-blocked]
-https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
-#EXTINF:-1 tvg-id="Franceinfo.fr@SD",Franceinfo
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8
-#EXTINF:-1 tvg-id="LEquipe.fr@SD",L'Equipe
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="General",TV5Monde Europe (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD",TV5Monde Europe (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="News",France 24 French (1080p)
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="EuronewsFrench.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews French (720p)
-https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="Animaux.fr@SD" tvg-logo="https://i.imgur.com/FM9FVAG.png" group-title="Education",Animaux (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd
+#EXTINF:-1 tvg-id="arte.fr@SD" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="Entertainment",Arte (720p) [Geo-blocked]
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 tvg-id="arte.fr@HD" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="Entertainment",arte HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
+#EXTINF:-1 tvg-id="BelRTL.be@SD" tvg-logo="https://i.imgur.com/0DUprIW.png" group-title="Music",Bel RTL (1080p)
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+#EXTINF:-1 tvg-id="BFMBusiness.fr@SD" tvg-logo="https://i.imgur.com/psqIHn4.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="Business;News",BFM Business (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logoschaines169bfmtvcouleurs.png" group-title="TNT",BFM TV
+https://tvradiozap.eu/727
 #EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-logo="https://i.imgur.com/YJCcczD.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News",BFM TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="BFM2.fr@HD" tvg-logo="https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg" group-title="News",BFM2 (1080p)
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
-#EXTINF:-1 tvg-id="BFMBusiness.fr@SD" tvg-logo="https://i.imgur.com/psqIHn4.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="Business;News",BFM Business (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="BFM2.fr" tvg-name="BFM2" tvg-logo="https://th.bing.com/th/id/OIP.fez30n7UjPAbkbu95Z0YWgHaEK?w=640&h=360&c=1&dpr=1.5" group-title="Info",BFM2
+https://tvradiozap.eu/1110
+#EXTINF:-1 tvg-id="LCI.fr@HD" tvg-logo="https://i.imgur.com/DED8EXs.png" group-title="News",LCI HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/LCI_logo_%282016%29.png/330px-LCI_logo_%282016%29.png" group-title="TNT",LCI
+https://tvradiozap.eu/899
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="Franceinfo.fr@SD",Franceinfo
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="France Info" tvg-logo="https://img.20mn.fr/0Gkk_u0qS22pBMK_ysg7kQ/1200x768_logo-chaine-france-info" group-title="TNT",France Info
+https://tvradiozap.eu/834
+#EXTINF:-1 tvg-id="Franceinfo.fr@SD" tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="News",Franceinfo (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
+#EXTINF:-1 tvg-id="RMCTalkInfo.fr" tvg-name="RMC Talk Info" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCTalkinfo.jpg" group-title="Info",RMC Talk Info
+https://tvradiozap.eu/869
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5Monde Info" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Info",TV5Monde Info
+https://tvradiozap.eu/673
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="News",TV5Monde Info (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-id="CanalPlus.fr@enclair" tvg-logo="https://i.imgur.com/5HcyMnW.png" group-title="Entertainment",Canal+ en clair (720p) [Geo-blocked] [Geo-Blocked]
-https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
-#EXTINF:-1 tvg-id="France2.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png" group-title="General",France 2 (1080p)
-http://69.64.57.208/france2/mono.m3u8
-#EXTINF:-1 tvg-id="France5.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" group-title="General",France 5 (1080p)
-http://69.64.57.208/france5/mono.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logos_FRANCE24_RVB_2013.svg/330px-Logos_FRANCE24_RVB_2013.svg.png" group-title="Info",France 24
+https://tvradiozap.eu/671
+#EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="News",France 24 French (1080p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="FranceInter.fr@SD" tvg-logo="https://i.imgur.com/MgBeU52.png" group-title="General",France Inter (288p)
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="LCP Public Sénat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/LCP.png" group-title="TNT",LCP Public Sénat
+https://tvradiozap.eu/645
 #EXTINF:-1 tvg-id="Francophonie24.fr@SD" tvg-logo="https://i.imgur.com/uM1v1sd.png" group-title="Documentary",Francophonie24 (1080p)
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BX1.be@SD" tvg-logo="https://i.imgur.com/0OkSa6c.png" group-title="Undefined",BX1 (720p) [Not 24/7]
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA UNE (BE)" tvg-logo="https://static-oaos.rtbf.be/assets/png/logotype/light/laune.png" group-title="TNT",LA UNE (BE)
+https://tvradiozap.eu/1267
+#EXTINF:-1 tvg-id="CNews.fr@SD",CNews (1080p) [Geo-blocked]
+https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" tvg-logo="https://logos-marques.com/wp-content/uploads/2022/03/CNews-Logo.jpg" group-title="TNT",CNews
+https://tvradiozap.eu/642
+#EXTINF:-1 tvg-id="CNews.fr@SD" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="News",CNews (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/330px-Euronews._2016_alternative_logo.png" group-title="Info",Euronews
+https://tvradiozap.eu/643
+#EXTINF:-1 tvg-id="EuronewsFrench.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews French (720p)
+https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsFrench.fr@HD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews French HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
+#EXTINF:-1 tvg-id="France2.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png" group-title="General",France 2 (1080p)
+http://69.64.57.208/france2/mono.m3u8
+#EXTINF:-1 tvg-id="France2.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png" group-title="General",France 2 HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+#EXTINF:-1 tvg-id="France4.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png" group-title="Kids",France 4 HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
+#EXTINF:-1 tvg-id="France5.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" group-title="General",France 5 (1080p)
+http://69.64.57.208/france5/mono.m3u8
+#EXTINF:-1 tvg-id="France5.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" group-title="General",France 5 HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
+#EXTINF:-1 tvg-id="CStar.fr@SD" tvg-logo="https://i.imgur.com/w4kAX1V.png" group-title="Entertainment",C Star (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/d17/browser-dash/d17.mpd
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar" tvg-logo="https://app.ladn-data.eu/storage/uploads/companies/a70beb63-7a59-40c0-b097-b6428b18cd36.jpg" group-title="TNT",CStar
+https://tvradiozap.eu/635
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+ (plages en clair)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Canal-Logo.png/960px-Canal-Logo.png" group-title="Généraliste",Canal+ (plages en clair)
+https://tvradiozap.eu/670
+#EXTINF:-1 tvg-id="CanalPlus.fr@enclair" tvg-logo="https://i.imgur.com/5HcyMnW.png" group-title="Entertainment",Canal+ en clair (720p) [Geo-blocked] [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
+#EXTINF:-1 tvg-id="LEquipe.fr@SD",L'Equipe
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
+#EXTINF:-1 tvg-id="LEquipe.fr@SD" tvg-logo="https://i.imgur.com/t35zhM9.png" group-title="Sports",L'Equipe (1080p)
+https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
+#EXTINF:-1 tvg-id="AfterFootTV.fr" tvg-name="After Foot TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/After-foot-logo-2023.svg/330px-After-foot-logo-2023.svg.png" group-title="Sport",After Foot TV
+https://tvradiozap.eu/1260
+#EXTINF:-1 tvg-id="FIFAPlus.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+ French (720p)
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="LaTrois.be@SD" tvg-logo="https://i.imgur.com/jMs4h9F.png" group-title="General",La Trois
+http://103.184.64.85:12000/stream/allchannel/rtbflatrois/master.m3u8
 #EXTINF:-1 tvg-id="LaUne.be@SD" tvg-logo="https://i.imgur.com/jMwZp7z.png" group-title="Entertainment",La Une (1080p)
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
+#EXTINF:-1 tvg-id="LCI.fr@HD" tvg-logo="https://i.imgur.com/DED8EXs.png" group-title="News",LCI HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
+#EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD" tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="General",Le Figaro IDF (1080p)
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="LeMediaTV.fr@SD" tvg-logo="https://i.imgur.com/OK20oyl.png" group-title="News",Le Media TV (180p)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/lemedia.m3u8
+#EXTINF:-1 tvg-id="M6.fr@SD" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="Entertainment",M6 (720p) [Geo-blocked] [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1 tvg-id="MaisonTravauxTV.fr@SD" tvg-logo="https://i.imgur.com/uYpc6nE.png" group-title="Lifestyle",Maison & Travaux TV (288p)
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/maisonettravaux.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LMF5 La Maison France 5" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4200001BN_20250513T005811SQUARE.png&h=250" group-title="Art de vivre",LMF5 La Maison France 5
+https://tvradiozap.eu/650
+#EXTINF:-1 tvg-id="" tvg-name="LMF5 La Maison France 5" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4200001BN_20250513T005811SQUARE.png&h=250" group-title="Art de vivre",LMF5 La Maison France 5
+https://tvradiozap.eu/650
+#EXTINF:-1 tvg-id="MaisonEtTravaux.fr" tvg-name="Maison et Travaux" tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png" group-title="Art de vivre",Maison et Travaux
+https://tvradiozap.eu/529
+#EXTINF:-1 tvg-id="Mieux.fr" tvg-name="Mieux" tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2025/08/bandeau-site-mieux-768x243.png" group-title="Art de vivre",Mieux
+https://tvradiozap.eu/1362
+#EXTINF:-1 tvg-id="FR:.MOTORVISION.TV.fr" tvg-name="Motorvision" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3200001DV_20241015T040401SQUARE.png" group-title="Art de vivre",Motorvision
+https://tvradiozap.eu/980
+#EXTINF:-1 tvg-id="" tvg-name="Rustica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd1pcqPtOUwEsvh_Pd99Kak6RR6eJH66qfwGEAtFvy8zgfo38mEvvw&usqp=CAE&s" group-title="Art de vivre",Rustica
+https://tvradiozap.eu/1220
+#EXTINF:-1 tvg-id="" tvg-name="Système D" tvg-logo="https://www.media-participations.com/fichiers/logos/presse/logo_systemeD.png" group-title="Art de vivre",Système D
+https://tvradiozap.eu/972
+#EXTINF:-1 tvg-id="" tvg-name="TV5Monde+ Chefs (CH)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1300003HM_20250811T172926SQUARE.png" group-title="Art de vivre",TV5Monde+ Chefs (CH)
+https://tvradiozap.eu/1094
+#EXTINF:-1 tvg-id="MotorvisionPlus.de@SD" tvg-logo="https://i.imgur.com/5cs5GkJ.png" group-title="Auto",Motorvision.tv (French)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+#EXTINF:-1 tvg-id="FR: Drive TV" tvg-name="Drive TV" tvg-logo="https://tvradiozap.eu/tv/logos/drivetv.png" group-title="Art de vivre",Drive TV
+https://tvradiozap.eu/1096
+#EXTINF:-1 tvg-id="MuseumTVFrench.fr@SD" tvg-logo="https://i.imgur.com/WbjURLo.png" group-title="Culture",Museum TV [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca@France" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentary",Nature Time France (1080p)
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVFrancophonie.fr" tvg-name="Francophonie24" tvg-logo="https://tvfrancophonie.org/templates/tvfranco_accueil_j5/images/header.jpg" group-title="Culture",Francophonie24
+https://tvradiozap.eu/962
+#EXTINF:-1 tvg-id="PlutoTVHistoire.fr" tvg-name="Plu.TV Histoire" tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/thumbnail.jpg" group-title="Culture",Plu.TV Histoire
+https://tvradiozap.eu/788
+#EXTINF:-1 tvg-id="" tvg-name="Savoir Media  (CA)" tvg-logo="https://beacon.playback.api.brightcove.com/savoirmedia/uploads/settings/2_e11b729e19a45b1c3f677217c5410c25_images_logo-h100_w100.png" group-title="Culture",Savoir Media  (CA)
+https://tvradiozap.eu/660
+#EXTINF:-1 tvg-id="tcm-tv.ca" tvg-name="TCM-TV   (CA)" tvg-logo="https://teleculturelle.com/wp-content/uploads/2024/01/tcm_logo_transparent-300x99.png" group-title="Culture",TCM-TV   (CA)
+https://tvradiozap.eu/149
+#EXTINF:-1 tvg-id="" tvg-name="TVD (CH)" tvg-logo="https://tvdecouverte.ch/wp-content/uploads/2022/11/Couleur_2_TVDecouverte-1024x184.png" group-title="Culture",TVD (CH)
+https://tvradiozap.eu/1383
+#EXTINF:-1 tvg-id="" tvg-name="100% Comedy" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/a2e7ff28-3c0a-46dc-aabe-9ad72d6fc6d3-width200-quality90.jpeg" group-title="Divertissement",100% Comedy
+https://tvradiozap.eu/1409
+#EXTINF:-1 tvg-id="Gong.fr" tvg-name="GONG  (KO)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png" group-title="Divertissement",GONG  (KO)
+https://tvradiozap.eu/663
+#EXTINF:-1 tvg-id="MDL.fr" tvg-name="MDL" tvg-logo="https://www.mondeduloisir.fr/wp-content/uploads/2016/07/Logo3_URL_Slogan_Noir_MICRO.png" group-title="Divertissement",MDL
+https://tvradiozap.eu/943
+#EXTINF:-1 tvg-id="" tvg-name="MHZ  (CA)" tvg-logo="https://vhx.imgix.net/fred/assets/02012a49-7526-4336-8a91-b26db95ab8bc.png?fit=max&h=84&q=92&w=400" group-title="Divertissement",MHZ  (CA)
+https://tvradiozap.eu/1179
+#EXTINF:-1 tvg-id="SousEcoute.ca" tvg-name="Mike Ward SousEcoute  (CA)" tvg-logo="https://pbs.twimg.com/profile_images/636592766714277888/Nqxn7PUH_400x400.jpg" group-title="Divertissement",Mike Ward SousEcoute  (CA)
+https://tvradiozap.eu/840
+#EXTINF:-1 tvg-id="" tvg-name="Carac5 (CH)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/CARAC5_logo_2025.svg/330px-CARAC5_logo_2025.svg.png" group-title="Divertissement",Carac5 (CH)
+https://tvradiozap.eu/997
+#EXTINF:-1 tvg-id="" tvg-name="Cirque du Soleil" tvg-logo="https://images.plex.tv/photo?size=small-120&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2F3%2Fepg%2Fchannels%2Flogos%2Fgracenote%2F38945a2afcb8ce8ae6b5fe557e908b2f.png" group-title="Divertissement",Cirque du Soleil
+https://tvradiozap.eu/1386
+#EXTINF:-1 tvg-id="" tvg-name="Cirque du Soleil" tvg-logo="https://images.plex.tv/photo?size=small-120&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2F3%2Fepg%2Fchannels%2Flogos%2Fgracenote%2F38945a2afcb8ce8ae6b5fe557e908b2f.png" group-title="Divertissement",Cirque du Soleil
+https://tvradiozap.eu/1386
+#EXTINF:-1 tvg-id="PlanetePlus.fr@SD" tvg-logo="https://i.imgur.com/RMbMGMg.png" group-title="Undefined",Planete+ (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
+#EXTINF:-1 tvg-id="PlayTV.cm@SD" tvg-logo="https://i.imgur.com/1dmBqpf.png" group-title="Music",Play TV (720p) [Not 24/7]
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+#EXTINF:-1 tvg-id="FRBD4100013LN" tvg-name="Motor Racing" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100013LN_20231115T012253SQUARE.png_20231115012254.png" group-title="Sport",Motor Racing
+https://tvradiozap.eu/851
+#EXTINF:-1 tvg-id="" tvg-name="Ailleurs Destination Luxe" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600001I2_20250408T021837SQUARE.png" group-title="Voyage",Ailleurs Destination Luxe
+https://tvradiozap.eu/653
+#EXTINF:-1 tvg-id="" tvg-name="Arte Invitation au Voyage" tvg-logo="https://princealbert1.mc/var/cap/storage/images/_aliases/w2160/7/7/4/0/50477-1-fre-FR/1e396f6f66bb-th-1-.jpg2.jpg" group-title="Voyage",Arte Invitation au Voyage
+https://tvradiozap.eu/91
+#EXTINF:-1 tvg-id="FRBC3500002E4" tvg-name="Echappées belles" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/eedf4ae4-7170-48f2-a686-98e80d0d463f-width308-quality100.jpeg" group-title="Voyage",Echappées belles
+https://tvradiozap.eu/705
+#EXTINF:-1 tvg-id="" tvg-name="Echos du monde" tvg-logo="https://images.plex.tv/photo?size=small-120&scale=2&url=https://provider-static.plex.tv/epg/cms/production/12ed6042-d759-427f-8856-c4a8d1d56cb4/Echos_whiteRDX.png" group-title="Voyage",Echos du monde
+https://tvradiozap.eu/1311
+#EXTINF:-1 tvg-id="" tvg-name="Echos du monde" tvg-logo="https://images.plex.tv/photo?size=small-120&scale=2&url=https://provider-static.plex.tv/epg/cms/production/12ed6042-d759-427f-8856-c4a8d1d56cb4/Echos_whiteRDX.png" group-title="Voyage",Echos du monde
+https://tvradiozap.eu/1311
+#EXTINF:-1 tvg-id="RMCJiraidormirchezvous.fr" tvg-name="RMC J'irai dormir chez vous" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCJDCVmin.jpg" group-title="Voyage",RMC J'irai dormir chez vous
+https://tvradiozap.eu/492
+#EXTINF:-1 tvg-id="FR:.Travelxp.fr" tvg-name="Travelxp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="Voyage",Travelxp
+https://tvradiozap.eu/528
+#EXTINF:-1 tvg-id="" tvg-name="TV5Monde+ Voyage" tvg-logo="https://worldscreen.com/wp-content/uploads/2024/10/TV5MondeVoyage-Logo-1024.jpg" group-title="Voyage",TV5Monde+ Voyage
+https://tvradiozap.eu/417
+#EXTINF:-1 tvg-id="FR3600005C7" tvg-name="Voyages et Saveurs" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/featuredImage_1749650211199.jpg?auto=&ixlib=react-9.1.5&w=448&h=248&dpr=2&q=20" group-title="Voyage",Voyages et Saveurs
+https://tvradiozap.eu/1045
+#EXTINF:-1 tvg-id="" tvg-name="Voyages+" tvg-logo="https://tvradiozap.eu/tv/logos/voyages+.png" group-title="Voyage",Voyages+
+https://tvradiozap.eu/989
 #EXTINF:-1 tvg-id="PlutoTVInvestigation.us@France" tvg-logo="https://i.imgur.com/8LdACfR.png" group-title="Documentary",Pluto TV Investigation
 https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
+#EXTINF:-1 tvg-id="RMC Story" tvg-name="RMC Story" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logoschaines169rmcstorycouleurs.png" group-title="TNT",RMC Story
+https://tvradiozap.eu/644
+#EXTINF:-1 tvg-id="RMCMystere.fr" tvg-name="RMC Mystère" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCMystere.jpg" group-title="Divertissement",RMC Mystère
+https://tvradiozap.eu/1014
+#EXTINF:-1 tvg-id="BFMGrandsReportages.fr" tvg-name="BFM Grands Reportages" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle10920BFMGrandsreportages.jpg" group-title="Documentaires",BFM Grands Reportages
+https://tvradiozap.eu/724
+#EXTINF:-1 tvg-id="" tvg-name="DocStory" tvg-logo="https://mediakwest.com/wp-content/uploads/2024/04/thumbnail_Gedeon-Doc-Story-Mediakwest.jpg" group-title="Documentaires",DocStory
+https://tvradiozap.eu/1155
+#EXTINF:-1 tvg-id="Lessecretsdenosregions.fr" tvg-name="Les secrets de nos régions" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/bf4a91c7-9a64-4071-af09-fa4646c4005d-width200-quality90.jpeg" group-title="Documentaires",Les secrets de nos régions
+https://tvradiozap.eu/442
+#EXTINF:-1 tvg-id="Lessecretsdenosregions.fr" tvg-name="Les secrets de nos régions" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/bf4a91c7-9a64-4071-af09-fa4646c4005d-width200-quality90.jpeg" group-title="Documentaires",Les secrets de nos régions
+https://tvradiozap.eu/442
+#EXTINF:-1 tvg-id="FR3200001NQ" tvg-name="BBC Earth (GB)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20241015T040214SQUARE.png" group-title="Nature",BBC Earth (GB)
+https://tvradiozap.eu/1145
+#EXTINF:-1 tvg-id="FRBC3900004DS" tvg-name="Cap Terre" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900004DS_20250923T010330SQUARE.png&h=250" group-title="Nature",Cap Terre
+https://tvradiozap.eu/963
+#EXTINF:-1 tvg-id="FRBC4000001IO" tvg-name="Destination Nature" tvg-logo="https://images.samsung.com/is/image/samsung/assets/fr/smart-tv/samsung-tv-plus/all-channels/Destination_Nature_1000x1000_Circle_300_DPI-20220915-141455.png?$330_186_PNG$" group-title="Nature",Destination Nature
+https://tvradiozap.eu/910
+#EXTINF:-1 tvg-id="FR:.Nature.Time.fr" tvg-name="Nature time" tvg-logo="https://images.samsung.com/is/image/samsung/assets/be_fr/smart-tv/samsung-tv-plus/all-channels/NatureTime_circle_1000x1000.png?$330_186_PNG$" group-title="Nature",Nature time
+https://tvradiozap.eu/704
+#EXTINF:-1 tvg-id="" tvg-name="Plu.TV Animaux" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/thumbnail.jpg" group-title="Nature",Plu.TV Animaux
+https://tvradiozap.eu/833
+#EXTINF:-1 tvg-id="FR:.Enquêtes.de.Choc.fr" tvg-name="Enquêtes de Choc" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC90000220_20230712T021542SQUARE.png_20230712021542.png" group-title="Reportages",Enquêtes de Choc
+https://tvradiozap.eu/541
+#EXTINF:-1 tvg-id="FR:.Enquêtes.de.Choc.fr" tvg-name="Enquêtes de Choc" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC90000220_20230712T021542SQUARE.png_20230712021542.png" group-title="Reportages",Enquêtes de Choc
+https://tvradiozap.eu/541
+#EXTINF:-1 tvg-id="FR:La.chaine.du.fait.divers.fr" tvg-name="Homicide" tvg-logo="https://provider-static.plex.tv/epg/cms/production/84791923-c240-4b13-99c5-cafab9931e33/HOMICIDE_ARTWORK_VERTICAL__-_richard_maroko.jpg" group-title="Reportages",Homicide
+https://tvradiozap.eu/1023
+#EXTINF:-1 tvg-id="" tvg-name="Immersion Crime & Justice" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600002ZR_20250408T021840SQUARE.png&h=250" group-title="Reportages",Immersion Crime & Justice
+https://tvradiozap.eu/81
+#EXTINF:-1 tvg-id="" tvg-name="Immersion Crime & Justice" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR600002ZR_20250408T021840SQUARE.png&h=250" group-title="Reportages",Immersion Crime & Justice
+https://tvradiozap.eu/81
+#EXTINF:-1 tvg-id="" tvg-name="Into Crime" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https://provider-static.plex.tv/epg/cms/production/82ee42cc-ff1b-4faa-97df-d99ff9b9b7e2/INTOCRIMELRED_WHITE_TEXTRDX.png" group-title="Reportages",Into Crime
+https://tvradiozap.eu/1293
+#EXTINF:-1 tvg-id="" tvg-name="Into Crime" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https://provider-static.plex.tv/epg/cms/production/82ee42cc-ff1b-4faa-97df-d99ff9b9b7e2/INTOCRIMELRED_WHITE_TEXTRDX.png" group-title="Reportages",Into Crime
+https://tvradiozap.eu/1293
+#EXTINF:-1 tvg-id="" tvg-name="Love Crime & History" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD43000016D_20241106T142627SQUARE.png" group-title="Reportages",Love Crime & History
+https://tvradiozap.eu/262
+#EXTINF:-1 tvg-id="" tvg-name="Real Life" tvg-logo="https://yt3.googleusercontent.com/iXcQd1gUJ4bMRTmsH2ZbhUu4GEuE6q4VHcNMy1YAZ5Vv-Bi6k2rFj3AKINS1fV6o5uMnr9dS=w1707-fcrop64=1%2C00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" group-title="Reportages",Real Life
+https://tvradiozap.eu/1172
+#EXTINF:-1 tvg-id="RMCAlerteSecours.fr" tvg-name="RMC Alerte Secours" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCAlertesecours.jpg" group-title="Reportages",RMC Alerte Secours
+https://tvradiozap.eu/1018
+#EXTINF:-1 tvg-id="" tvg-name="C'est pas Sorcier" tvg-logo="https://images.pluto.tv/channels/63b579961bdba100071214cb/thumbnail.jpg" group-title="Sciences",C'est pas Sorcier
+https://tvradiozap.eu/657
+#EXTINF:-1 tvg-id="FRBD5100003TP" tvg-name="Epicurieux" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100003TP_20240507T094247SQUARE.png" group-title="Sciences",Epicurieux
+https://tvradiozap.eu/985
+#EXTINF:-1 tvg-id="" tvg-name="Futura 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Futura-logo.jpg/330px-Futura-logo.jpg" group-title="Sciences",Futura 1
+https://tvradiozap.eu/838
+#EXTINF:-1 tvg-id="" tvg-name="Futura 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Futura-logo.jpg/330px-Futura-logo.jpg" group-title="Sciences",Futura 2
+https://tvradiozap.eu/1147
+#EXTINF:-1 tvg-id="" tvg-name="Futura 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Futura-logo.jpg/330px-Futura-logo.jpg" group-title="Sciences",Futura 3
+https://tvradiozap.eu/1010
+#EXTINF:-1 tvg-id="" tvg-name="Science & Vie" tvg-logo="https://www.bordeaux-neurocampus.fr/wp-content/uploads/2019/03/logo-sciences-et-vie.jpg" group-title="Sciences",Science & Vie
+https://tvradiozap.eu/1241
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="Tech&Co" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Tech_%26_Co.svg/500px-Tech_%26_Co.svg.png" group-title="Sciences",Tech&Co
+https://tvradiozap.eu/878
+#EXTINF:-1 tvg-id="Mezzo.fr@SD" tvg-logo="https://i.imgur.com/auNdGeW.png" group-title="Music",Mezzo (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
+#EXTINF:-1 tvg-id="RMCMecanic.fr" tvg-name="RMC Mecanic" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCMecanicmin.jpg" group-title="Documentaires",RMC Mecanic
+https://tvradiozap.eu/1017
+#EXTINF:-1 tvg-id="RMCWow.fr" tvg-name="RMC Wow" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/imgrectangle1920RMCWowmin.jpg" group-title="Documentaires",RMC Wow
+https://tvradiozap.eu/1016
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-name="RMC Découverte" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/logoschaines169rmcdecouvertecouleurs.png" group-title="TNT",RMC Découverte
+https://tvradiozap.eu/898
+#EXTINF:-1 tvg-id="RMCDecouverte.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="Undefined",RMC Decouverte (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
+#EXTINF:-1 tvg-id="RMCLife.fr@SD" tvg-logo="https://img1.dc2.oqee.net/channel_pictures/3606/w512" group-title="Entertainment;Interactive",RMC Life (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
+#EXTINF:-1 tvg-id="RMCStory.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png" group-title="Undefined",RMC Story (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
+#EXTINF:-1 tvg-id="RTL2.fr@SD" tvg-logo="https://i.imgur.com/deC4z34.png" group-title="Music",RTL2
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/rtl2.m3u8
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-name="RTL TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/RTL-TVI_logo.svg/330px-RTL-TVI_logo.svg.png" group-title="Généraliste",RTL TVI
+https://tvradiozap.eu/906
+#EXTINF:-1 tvg-id="RTLTVI.be@SD" tvg-logo="https://i.imgur.com/2CimAAN.png" group-title="Undefined",RTL-TVI (1080p) [Not 24/7]
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-id="MyTVChannel.cm@SD" tvg-logo="https://i.imgur.com/vh2373L.png" group-title="Undefined",My TV Channel (720p) [Not 24/7]
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneBlacklist.fr@HD",Sony One Blacklist (1080p)
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneBlacklist.fr@HD" tvg-logo="https://i.imgur.com/uJC8rXr.png" group-title="Series",Sony One Blacklist (1080p)
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneFavoris.fr@HD" tvg-logo="https://i.imgur.com/RO4AM4b.png" group-title="Movies",Sony One Favoris (1080p)
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneHitsAction.fr@HD" tvg-logo="https://i.imgur.com/pXsZEsR.png" group-title="Movies",Sony One Hits Action (1080p)
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneHitsComedie.fr@HD" tvg-logo="https://i.imgur.com/8sHuxxS.png" group-title="Movies",Sony One Hits Comedie (1080p)
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyOneSeriesComedie.fr@HD" tvg-logo="https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png" group-title="Series",Sony One Series Comedie (1080p)
+https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneSeriesThriller.fr@HD" tvg-logo="https://i.imgur.com/RVS8LDj.png" group-title="Series",Sony One Series Thriller (1080p)
 https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="TF1.fr@HD" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1 HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://companieslogo.com/img/orig/TFI.PA-8c6da426.png" group-title="TNT",TF1
+https://tvradiozap.eu/890
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/330px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="TNT",M6
+https://tvradiozap.eu/664
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/330px-TMC_logo_2016.svg.png" group-title="TNT",TMC
+https://tvradiozap.eu/895
+#EXTINF:-1 tvg-id="TMC.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" group-title="General",TMC HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/W9-Logo.svg/330px-W9-Logo.svg.png" group-title="TNT",W9
+https://tvradiozap.eu/897
+#EXTINF:-1 tvg-id="Trek.fr@HD" tvg-logo="https://i.imgur.com/TcF53W4.png" group-title="Undefined",Trek HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD",TV5Monde Europe (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="General",TV5Monde Europe (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD" tvg-logo="https://i.imgur.com/WmRbudc.png" group-title="General",TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@HD" tvg-logo="https://i.imgur.com/WmRbudc.png" group-title="General",TV5Monde France Belgium Switzerland Monaco HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="TV5Monde FBS" tvg-logo="https://i.imgur.com/uGs4HSL.png" group-title="Généraliste",TV5Monde FBS
+https://tvradiozap.eu/665
 #EXTINF:-1 tvg-id="VoyagesSaveurs.es@FR" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" group-title="Lifestyle;Travel",Voyages & Saveurs (720p)
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
+#EXTINF:-1 tvg-id="WildSideTV.fr@SD" tvg-logo="https://i.imgur.com/cQkfRhH.png" group-title="Movies",Wildside TV (720p)
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="W9.fr@SD" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="Entertainment",W9 (720p) [Geo-blocked] [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+#EXTINF:-1 tvg-id="ZeeOne.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Entertainment",Zee One Français (720p)
+https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee One" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/6e44fbc4-7921-4fbc-b215-f90c74cf207e-width640-quality90.jpeg" group-title="Séries-Films",Zee One
+https://tvradiozap.eu/1249
+#EXTINF:-1 tvg-id="BAM.be" tvg-name="BAM (BE)" tvg-logo="https://le-de.cdn-website.com/894133b4cadc4c66aa2a5f508c2b66fd/dms3rep/multi/opt/LogoBAM-1920w.png" group-title="Sociétal",BAM (BE)
+https://tvradiozap.eu/941
+#EXTINF:-1 tvg-id="CPAC.ca" tvg-name="CPAC (CA)" tvg-logo="https://logowik.com/content/uploads/images/cpac-tv-20169103.logowik.com.webp" group-title="Sociétal",CPAC (CA)
+https://tvradiozap.eu/1180
+#EXTINF:-1 tvg-id="Frontieres.fr" tvg-name="Frontières" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Fronti%C3%A8res_%28m%C3%A9dia%29.png/330px-Fronti%C3%A8res_%28m%C3%A9dia%29.png" group-title="Sociétal",Frontières
+https://tvradiozap.eu/1382
+#EXTINF:-1 tvg-id="FusionTV.mq" tvg-name="Fusion TV" tvg-logo="https://radiofusion.fr/wp-content/uploads/2025/02/fusion-600.png" group-title="Sociétal",Fusion TV
+https://tvradiozap.eu/1009
+#EXTINF:-1 tvg-id="LeMedia.fr" tvg-name="Le Média" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo-lemedia-gradient.a0513464.svg/langfr-330px-Logo-lemedia-gradient.a0513464.svg.png" group-title="Sociétal",Le Média
+https://tvradiozap.eu/936
+#EXTINF:-1 tvg-id="ONTPARL.ca" tvg-name="ONTPARL (CA)" tvg-logo="https://www.ola.org/sites/default/files/Wordmark-Asymmetrical-Colour_French1x.jpg" group-title="Sociétal",ONTPARL (CA)
+https://tvradiozap.eu/1191
 #EXTINF:-1 tvg-id="CineNanar.fr@SD" tvg-logo="https://i.imgur.com/YnUZd3W.png" group-title="Movies",Zylo Ciné Nanar (1080p)
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CineWestern.fr@SD" tvg-logo="https://i.imgur.com/tteOFkL.png" group-title="Movies",Zylo Ciné Western (1080p)
@@ -63,11 +326,121 @@ https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ScreamIN.fr@SD" tvg-logo="https://i.imgur.com/tGmKbil.png" group-title="Movies",Zylo ScreamIN (1080p)
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVInvestigation.us@France" tvg-logo="https://i.imgur.com/8LdACfR.png" group-title="Documentary",Pluto TV Investigation
-https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
-#EXTINF:-1 tvg-id="WildSideTV.fr@SD" tvg-logo="https://i.imgur.com/cQkfRhH.png" group-title="Movies",Wildside TV (720p)
-https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FranceInter.fr@SD" tvg-logo="https://i.imgur.com/MgBeU52.png" group-title="General",France Inter (288p)
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8
-#EXTINF:-1 tvg-id="FIFAPlus.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+ French (720p)
-https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="AlloCine.fr" tvg-name="AlloCiné" tvg-logo="https://www.logotheque-vectorielle.fr/wp-content/uploads/2022/10/logo-vectoriel-allocine.jpg" group-title="Cinéma",AlloCiné
+https://tvradiozap.eu/987
+#EXTINF:-1 tvg-id="" tvg-name="100% Cinéma" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR13000020W_20250819T032458SQUARE.png&h=250" group-title="Cinéma",100% Cinéma
+https://tvradiozap.eu/717
+#EXTINF:-1 tvg-id="" tvg-name="100% Cinéma" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR13000020W_20250819T032458SQUARE.png&h=250" group-title="Cinéma",100% Cinéma
+https://tvradiozap.eu/717
+#EXTINF:-1 tvg-id="" tvg-name="Action Totale" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR220000105_20250617T031603SQUARE.png&h=320" group-title="Cinéma",Action Totale
+https://tvradiozap.eu/1263
+#EXTINF:-1 tvg-id="" tvg-name="Action Totale" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR220000105_20250617T031603SQUARE.png&h=320" group-title="Cinéma",Action Totale
+https://tvradiozap.eu/1263
+#EXTINF:-1 tvg-id="" tvg-name="Box Office Action" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20250415T020853SQUARE.png&h=250" group-title="Cinéma",Box Office Action
+https://tvradiozap.eu/99
+#EXTINF:-1 tvg-id="" tvg-name="Box Office Action" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20250415T020853SQUARE.png&h=250" group-title="Cinéma",Box Office Action
+https://tvradiozap.eu/99
+#EXTINF:-1 tvg-id="" tvg-name="Box Office Drama" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700003N4_20250610T011321SQUARE.png&h=250" group-title="Cinéma",Box Office Drama
+https://tvradiozap.eu/1224
+#EXTINF:-1 tvg-id="" tvg-name="Box Office Drama" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700003N4_20250610T011321SQUARE.png&h=250" group-title="Cinéma",Box Office Drama
+https://tvradiozap.eu/1224
+#EXTINF:-1 tvg-id="" tvg-name="Box Office Thrillers" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20251028T011454SQUARE.png&h=250" group-title="Cinéma",Box Office Thrillers
+https://tvradiozap.eu/97
+#EXTINF:-1 tvg-id="" tvg-name="Box Office Thrillers" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700001AG_20251028T011454SQUARE.png&h=250" group-title="Cinéma",Box Office Thrillers
+https://tvradiozap.eu/97
+#EXTINF:-1 tvg-id="FR:.Brefcinema.fr" tvg-name="BrefCinéma" tvg-logo="https://images.samsung.com/is/image/samsung/assets/fr/smart-tv/samsung-tv-plus/all-channels/Brefcinema.png?$330_186_PNG$" group-title="Cinéma",BrefCinéma
+https://tvradiozap.eu/858
+#EXTINF:-1 tvg-id="PlutoTVCineCatastrophe.fr" tvg-name="Ciné Catastrophe" tvg-logo="https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/thumbnail_1751373177608.jpg" group-title="Cinéma",Ciné Catastrophe
+https://tvradiozap.eu/749
+#EXTINF:-1 tvg-id="FRBB39000020C" tvg-name="Ciné Nanar" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB39000020C_20230614T005557SQUARE.png_20230614005557.png" group-title="Cinéma",Ciné Nanar
+https://tvradiozap.eu/930
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Rétro" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/thumbnail.jpg" group-title="Cinéma",Ciné Rétro
+https://tvradiozap.eu/831
+#EXTINF:-1 tvg-id="PlutoTVSciFi.fr" tvg-name="Ciné Sci-Fi" tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/thumbnail.jpg" group-title="Cinéma",Ciné Sci-Fi
+https://tvradiozap.eu/782
+#EXTINF:-1 tvg-id="FRBD19000095S" tvg-name="Ciné Western" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000095S_20230614T005621SQUARE.png_20230614005622.png" group-title="Cinéma",Ciné Western
+https://tvradiozap.eu/861
+#EXTINF:-1 tvg-id="" tvg-name="Crime Scene" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0e7ca5ae-d7a9-4e1a-8d46-1503280f1de6/Crime_SceneTV_RDX_WHITE_GOOD.png" group-title="Cinéma",Crime Scene
+https://tvradiozap.eu/1294
+#EXTINF:-1 tvg-id="" tvg-name="FilmRise" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/330px-Filmrise.svg.png" group-title="Cinéma",FilmRise
+https://tvradiozap.eu/1239
+#EXTINF:-1 tvg-id="FR:.Grjngo.-.Films.de.Western.fr" tvg-name="Grjngo" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/42c9c621-f61c-4a9d-9de4-362ba0cf4a29-width200-quality90.jpeg" group-title="Cinéma",Grjngo
+https://tvradiozap.eu/1219
+#EXTINF:-1 tvg-id="" tvg-name="LG 1" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1_800x200_white_5.png" group-title="Cinéma",LG 1
+https://tvradiozap.eu/1232
+#EXTINF:-1 tvg-id="" tvg-name="LG 1:Film" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_2.png" group-title="Cinéma",LG 1:Film
+https://tvradiozap.eu/1225
+#EXTINF:-1 tvg-id="" tvg-name="LG 1+1" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1_800x200_white_6.png" group-title="Cinéma",LG 1+1
+https://tvradiozap.eu/1233
+#EXTINF:-1 tvg-id="FRBA2200010VN" tvg-name="MyTime Movie Network" tvg-logo="https://images.samsung.com/is/image/samsung/assets/fr/smart-tv/samsung-tv-plus/all-channels/VincentM-1000x1000-circle-colored.png?$330_186_PNG$" group-title="Cinéma",MyTime Movie Network
+https://tvradiozap.eu/857
+#EXTINF:-1 tvg-id="NoovoCinema.ca" tvg-name="Noovo Cinéma  (CA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Noovo_logo.png" group-title="Cinéma",Noovo Cinéma  (CA)
+https://tvradiozap.eu/1140
+#EXTINF:-1 tvg-id="" tvg-name="Plu.TV French Collection" tvg-logo="https://images.pluto.tv/channels/62f3e0522443200008c567d7/thumbnail.jpg" group-title="Cinéma",Plu.TV French Collection
+https://tvradiozap.eu/781
+#EXTINF:-1 tvg-id="FR:.Films.d`Action.-.Rakuten.TV.fr" tvg-name="Rakuten TV Action" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e87ece78-2a31-4a08-a673-6d08bb8f8a06-films-d-action-rakuten-tv-1621956489.png" group-title="Cinéma",Rakuten TV Action
+https://tvradiozap.eu/713
+#EXTINF:-1 tvg-id="FR:.Films.d`Action.-.Rakuten.TV.fr" tvg-name="Rakuten TV Action" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e87ece78-2a31-4a08-a673-6d08bb8f8a06-films-d-action-rakuten-tv-1621956489.png" group-title="Cinéma",Rakuten TV Action
+https://tvradiozap.eu/713
+#EXTINF:-1 tvg-id="FR:.Crime.-.Rakuten.TV.fr" tvg-name="Rakuten TV Crime" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5cd5a6bd-da75-4977-94fe-7c18e4c74b08-width308-quality100.jpeg" group-title="Séries-Films",Rakuten TV Crime
+https://tvradiozap.eu/839
+#EXTINF:-1 tvg-id="FR:.Crime.-.Rakuten.TV.fr" tvg-name="Rakuten TV Crime" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5cd5a6bd-da75-4977-94fe-7c18e4c74b08-width308-quality100.jpeg" group-title="Séries-Films",Rakuten TV Crime
+https://tvradiozap.eu/839
+#EXTINF:-1 tvg-id="FR:.Comédies.-.Rakuten.TV.fr" tvg-name="Rakuten TV Comédies" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/83ab0208-8f29-4fe7-ac35-3a7082354b86-comedies-rakuten-tv-1621956497-width200-quality100.png" group-title="Cinéma",Rakuten TV Comédies
+https://tvradiozap.eu/714
+#EXTINF:-1 tvg-id="FR:.Comédies.-.Rakuten.TV.fr" tvg-name="Rakuten TV Comédies" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/83ab0208-8f29-4fe7-ac35-3a7082354b86-comedies-rakuten-tv-1621956497-width200-quality100.png" group-title="Cinéma",Rakuten TV Comédies
+https://tvradiozap.eu/714
+#EXTINF:-1 tvg-id="FR:.Drames.-.Rakuten.TV.fr" tvg-name="Rakuten TV Drames" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3048e7b4-f088-4f7f-a693-3bf229c1a920-drames-rakuten-tv-1621956482-width200-quality100.jpeg" group-title="Cinéma",Rakuten TV Drames
+https://tvradiozap.eu/718
+#EXTINF:-1 tvg-id="FR:.Drames.-.Rakuten.TV.fr" tvg-name="Rakuten TV Drames" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3048e7b4-f088-4f7f-a693-3bf229c1a920-drames-rakuten-tv-1621956482-width200-quality100.jpeg" group-title="Cinéma",Rakuten TV Drames
+https://tvradiozap.eu/718
+#EXTINF:-1 tvg-id="Romance.fr" tvg-name="Rakuten TV Romance" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/393e06e8-5cd9-4c4b-9137-bbf06a4fb8bc-films-romantiques-rakuten-tv-1641196725-width200-quality100.jpeg" group-title="Cinéma",Rakuten TV Romance
+https://tvradiozap.eu/845
+#EXTINF:-1 tvg-id="Romance.fr" tvg-name="Rakuten TV Romance" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/393e06e8-5cd9-4c4b-9137-bbf06a4fb8bc-films-romantiques-rakuten-tv-1641196725-width200-quality100.jpeg" group-title="Cinéma",Rakuten TV Romance
+https://tvradiozap.eu/845
+#EXTINF:-1 tvg-id="FR:.Thrillers.-.Rakuten.TV.fr" tvg-name="Rakuten TV Thrillers" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/6dd17394-15ca-4a98-88fb-a55b07ec5000-thrillers-rakuten-tv-1635839722-width200-quality100.jpeg" group-title="Cinéma",Rakuten TV Thrillers
+https://tvradiozap.eu/721
+#EXTINF:-1 tvg-id="FR:.Thrillers.-.Rakuten.TV.fr" tvg-name="Rakuten TV Thrillers" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/6dd17394-15ca-4a98-88fb-a55b07ec5000-thrillers-rakuten-tv-1635839722-width200-quality100.jpeg" group-title="Cinéma",Rakuten TV Thrillers
+https://tvradiozap.eu/721
+#EXTINF:-1 tvg-id="FRBA2200010VN" tvg-name="MyTime Movie Network" tvg-logo="https://images.samsung.com/is/image/samsung/assets/fr/smart-tv/samsung-tv-plus/all-channels/VincentM-1000x1000-circle-colored.png?$330_186_PNG$" group-title="Cinéma",MyTime Movie Network
+https://tvradiozap.eu/857
+#EXTINF:-1 tvg-id="FR2600007CB" tvg-name="Rakuten TV Top Films" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/3674524a-b752-48f9-a8f5-7a9ecec2dada-width400-quality90.jpeg" group-title="Cinéma",Rakuten TV Top Films
+https://tvradiozap.eu/722
+#EXTINF:-1 tvg-id="Runtime.fr" tvg-name="Run:Time Film et Séries" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB50000016B_20241030T154324SQUARE.png&h=250" group-title="Séries-Films",Run:Time Film et Séries
+https://tvradiozap.eu/986
+#EXTINF:-1 tvg-id="Runtime.fr" tvg-name="Run:Time Film et Séries" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB50000016B_20241030T154324SQUARE.png&h=250" group-title="Séries-Films",Run:Time Film et Séries
+https://tvradiozap.eu/986
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten Viki" tvg-logo="https://1.vikiplatform.com/cms-uploads/uncategorized/Viki-logo-blue-268w_1716530859_879.png" group-title="Cinéma",Rakuten Viki
+https://tvradiozap.eu/1227
+#EXTINF:-1 tvg-id="" tvg-name="Sci-Fi" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b44c79e9-a7da-406c-b3e2-48c20910e48b-width200-quality90.jpeg" group-title="Cinéma",Sci-Fi
+https://tvradiozap.eu/1335
+#EXTINF:-1 tvg-id="FR:.ScreamIN.fr" tvg-name="ScreamIN" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/9632cedb-5638-4010-9528-3ebf0071d631-screamin-1639988850-width200-quality90.jpeg" group-title="Cinéma",ScreamIN
+https://tvradiozap.eu/841
+#EXTINF:-1 tvg-id="" tvg-name="Shark TV" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/b6889e80-6761-46b9-b2d7-1e38aef66577-width400-quality90.jpeg" group-title="Cinéma",Shark TV
+https://tvradiozap.eu/1171
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Blacklist" tvg-logo="https://static.frequency.com/studio/sony/channels/FR_LG_FAST_Blacklist_ChannelLogo_Horizontal.png" group-title="Séries-Films",Sony One Blacklist
+https://tvradiozap.eu/1237
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Favoris" tvg-logo="https://static.frequency.com/studio/sony/channels/FR_LG_FAST_Faves_ChannelLogo_Horizontal.png" group-title="Séries-Films",Sony One Favoris
+https://tvradiozap.eu/1238
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Séries Comédie" tvg-logo="https://static.frequency.com/studio/sony/channels/FR_LG_FAST_ComedyTV_ChannelLogo_Horizontal.png" group-title="Séries-Films",Sony One Séries Comédie
+https://tvradiozap.eu/1236
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Séries Thriller" tvg-logo="https://static.frequency.com/studio/sony/channels/FR_LG_FAST_ThrillerTV_ChannelLogo_Horizontal.png" group-title="Séries-Films",Sony One Séries Thriller
+https://tvradiozap.eu/1235
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Hits Action" tvg-logo="https://static.frequency.com/studio/sony/channels/FR_LG_FAST_ActionHits_ChannelLogo_Horizontal.png" group-title="Cinéma",Sony One Hits Action
+https://tvradiozap.eu/1230
+#EXTINF:-1 tvg-id="" tvg-name="Sony One Hits Comédie" tvg-logo="https://static.frequency.com/studio/sony/channels/FR_LG_FAST_ComedyHits_ChannelLogo_Horizontal.png" group-title="Cinéma",Sony One Hits Comédie
+https://tvradiozap.eu/1231
+#EXTINF:-1 tvg-id="FRBC9000041F" tvg-name="Trailers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC9000041F_20240117T032749SQUARE.png_20240117032749.png" group-title="Cinéma",Trailers
+https://tvradiozap.eu/1012
+#EXTINF:-1 tvg-id="WildSideTv.fr" tvg-name="Wild Side" tvg-logo="https://revusetcorriges.com/wp-content/uploads/2017/11/boite-logo-wild-side.png" group-title="Cinéma",Wild Side
+https://tvradiozap.eu/815
+#EXTINF:-1 tvg-id="FR:.BBC.Drama.fr" tvg-name="BBC Séries" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2900001UF_20250916T003553SQUARE.png&h=250" group-title="Séries-Films",BBC Séries
+https://tvradiozap.eu/844
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4" tvg-logo="https://i.servimg.com/u/f76/20/26/59/00/untitl10.png" group-title="Séries-Films",Canal 4
+https://tvradiozap.eu/468
+#EXTINF:-1 tvg-id="" tvg-name="FilmRise Binge Watch" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/f1183189-195b-4acf-bad4-ae4c2cd3bba4-filmrise-free-binge-watch-1607074455-width200-quality90.jpeg" group-title="Séries-Films",FilmRise Binge Watch
+https://tvradiozap.eu/1240
+#EXTINF:-1 tvg-id="" tvg-name="FilmRise Séries" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fcc0951e8-548c-48ef-afcd-82d7eca657c0%2FPlex_FilmRise_S__ries_Color_Logo.png" group-title="Séries-Films",FilmRise Séries
+https://tvradiozap.eu/658
+#EXTINF:-1 tvg-id="" tvg-name="LG 1:Spotlight" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1spt_epg_white_3.png" group-title="Séries-Films",LG 1:Spotlight
+https://tvradiozap.eu/1226
